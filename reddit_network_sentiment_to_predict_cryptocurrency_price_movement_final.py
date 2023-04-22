@@ -7,47 +7,37 @@ Original file is located at
     https://colab.research.google.com/drive/1NKnlCpk3yW_C-5_gkzQ6O5Bbx1mIMLyv
 """
 
-# This Python 3 environment comes with many helpful analytics libraries installed
-# It is defined by the kaggle/python Docker image: https://github.com/kaggle/docker-python
-# For example, here's several helpful packages to load
-
-import numpy as np # linear algebra
-import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
-
-# Input data files are available in the read-only "../input/" directory
-# For example, running this (by clicking run or pressing Shift+Enter) will list all files under the input directory
-
-import os
-for dirname, _, filenames in os.walk('/kaggle/input'):
-    for filename in filenames:
-        print(os.path.join(dirname, filename))
-
-# You can write up to 20GB to the current directory (/kaggle/working/) that gets preserved as output when you create a version using "Save & Run All" 
-# You can also write temporary files to /kaggle/temp/, but they won't be saved outside of the current session
-
-!pip install emoji
-
-!pip install -q transformers
-
-!pip install praw
-
+#Standard Libraries
 import praw
 import pandas as pd
 import datetime
+import warnings
+warnings.filterwarnings("always")
+
+#NLP Libraries
 import emoji
 from nltk.tokenize import RegexpTokenizer
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+nltk.download('stopwords')
+nltk.download('punkt')
+import re
+
+#Sentiment Analysis Models
 from transformers import pipeline
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
-import nltk
 
+
+#PRAW application ID and Secret
 reddit = praw.Reddit(
     client_id="DDScYrlvPYFopqlOS3IReQ",
     client_secret="kOzq249feXHiuh3Y4moM8aC1sVaKHA",
     user_agent="Research",
 )
-
 reddit.read_only = True
 
+#Get top posts from the subreddit
 hot_posts=reddit.subreddit("ethereum").top(limit=10000)
 
 posts = [] # Empty list
@@ -56,20 +46,22 @@ posts = [] # Empty list
 for post in hot_posts:
     posts.append([post.title, post.score, post.id, post.subreddit, post.url, post.num_comments, post.selftext, post.created])
 
-
 # Add the data to a dataframe
 posts = pd.DataFrame(posts, columns=['title', 'score', 'id', 'subreddit', 'url', 'num_comments', 'body', 'created'])
 
 posts
 
+#Convert Timestamp to Datetime 
 posts['created'] = posts['created'].astype(int)
 posts["created"] = posts["created"].apply(lambda x: datetime.datetime.utcfromtimestamp(x).strftime('%d-%m-%Y %H:%M:%S'))
 
 posts["created"] = pd.to_datetime(posts["created"])
 print(posts.dtypes)
 
+#Sort posts according to date created
 posts.sort_values(by='created', inplace=True)
 
+#Add new columns 
 posts["pos_comments"]=0
 posts["neg_comments"]=0
 posts["avg_comment_score"]=0
@@ -80,40 +72,32 @@ posts['body_score']=0
 posts['body_score'] = posts['body_score'].astype(float)
 posts
 
-posts["avg_comment_score"].dtype
-
-specific_model = pipeline(model="mwkby/distilbert-base-uncased-sentiment-reddit-crypto")
-posts1=posts
-
+#Import BERT based model from HuggingFace
 tokenizer = AutoTokenizer.from_pretrained("mwkby/distilbert-base-uncased-sentiment-reddit-crypto")
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
-nltk.download('stopwords')
-nltk.download('punkt')
-import re
-!pip install emoji
-print(emoji.emojize('Python is :thumbs_up:'))
+specific_model = pipeline(model="mwkby/distilbert-base-uncased-sentiment-reddit-crypto")
 
-## Sarcasm detector? https://huggingface.co/helinivan/english-sarcasm-detector?text=CIA+Realizes+It%27s+Been+Using+Black+Highlighters+All+These+Years.
+"""Do we want to do Sarcasm Detector for all comments and titles?
+https://huggingface.co/helinivan/english-sarcasm-detector?text=CIA+Realizes+It%27s+Been+Using+Black+Highlighters+All+These+Years.
+"""
+
+##Drawback of reddit data = people write big comments
+#Sliding Window Protocol For BERT Limitation
 
 def sliding_window(string, window_size):
     # Split the string into a list of words
     words = string.split()
     
-    print(len(words))
     # Calculate the total number of windows that can be created
     num_windows_divide = len(words)/window_size + 1
+
     # Create a list to store the windows
     windows = []
     labels = [None]*int(num_windows_divide)
     scores= [None]*int(num_windows_divide)
-    print(len(scores))
     # Iterate over the words in the string and extract windows of size `window_size`
     for i in range(0,int(num_windows_divide)):
         k=i*window_size
-        # print(len(words[k:k+window_size]))
         window = ' '.join(words[k:k+window_size])
-        # print(window)
         sentiment_analysis=specific_model(window)
         labels[i]=sentiment_analysis[0]['label']
         if(labels[i]=='postive'):
@@ -134,7 +118,6 @@ def sliding_window(string, window_size):
         positives=0
     
     score = sum(scores)/len(scores)
-    print('Negative =' +str(negatives)+"\nPositive= " + str(positives))
     if(positives>negatives):
         sentiment_analysis =[{'label': 'positive', 'score': score}]
         return sentiment_analysis
@@ -149,45 +132,38 @@ def sliding_window(string, window_size):
             sentiment_analysis =[{'label': 'negative', 'score': score}]
             return sentiment_analysis
 
-##Limitation of reddit data = people write big comments 
+check_for_async=False
 
-for i, row in posts1.iterrows():
-    submission_id=posts1.at[i,'id']
-    post=reddit.submission(id=submission_id)
-    post.comments.replace_more(limit=None) #Forest comments
+# define a function to process sentiment analysis for a single post
+def process_post_sentiment(i, post_id):
+    post = reddit.submission(id=post_id)
+    post.comments.replace_more(limit=None)
     count = 0
-    comment_scores= []
+    comment_scores = []
     Comments = []
-    for comments in post.comments.list():
-        Comments.append(comments.body)
+    for comment in post.comments.list():
+        Comments.append(comment.body)
 
-    print(str(i)+ " " +submission_id)
-    #title_score = specific_model(posts1.at[i,'title'])
-    title_tokens = word_tokenize(posts1.at[i,"title"])
+    title_tokens = word_tokenize(posts.at[i,"title"])
     title_tokens_without_sw = [word for word in title_tokens if not word in stopwords.words()]
     filtered_title = (" ").join(title_tokens_without_sw)
-    # print(filtered_title)
-    if(len(filtered_title)<450):
-        title_sentiment_analysis=specific_model(filtered_title)
-    else: #Limitation of BERT
-        title_sentiment_analysis=sliding_window(filtered_title,200)
+    if len(filtered_title) < 450:
+        title_sentiment_analysis = specific_model(filtered_title)
+    else:
+        title_sentiment_analysis = sliding_window(filtered_title, 200)
 
-
-    #body_score = specific_model(posts1.at[i,'body'])
-    body_tokens = word_tokenize(posts1.at[i,"body"])
+    body_tokens = word_tokenize(posts.at[i,"body"])
     body_tokens_without_sw = [word for word in body_tokens if not word in stopwords.words()]
     filtered_body = (" ").join(body_tokens_without_sw)
-    # print(filtered_body)
     filtered_body = re.sub('http[s]?://\S+', '', filtered_body)
-    # print(filtered_body+ " \n" + str(posts1.at[i,"body"]))
-    # print(filtered_body)
-    if(len(filtered_body)<450):
-        body_sentiment_analysis=specific_model(filtered_body)
-    else: #Limitation of BERT
-        body_sentiment_analysis=sliding_window(filtered_body,100)
+    if len(filtered_body) < 450:
+        body_sentiment_analysis = specific_model(filtered_body)
+    else:
+        body_sentiment_analysis = sliding_window(filtered_body, 100)
 
-    posts1.at[i,'pos_comments'] = 0
-    posts1.at[i,'neg_comments'] = 0
+    
+    posts.at[i,'pos_comments'] = 0
+    posts.at[i,'neg_comments'] = 0
     k = 0
     for comment in Comments:
         comment = re.sub('http[s]?://\S+', '', comment)
@@ -209,28 +185,26 @@ for i, row in posts1.iterrows():
         if sentiment_analysis[0]['label'] == 'positive':
             comment_scores.append(sentiment_analysis[0]['score'])
             # print("Postive=" +str(posts1.at[i,'pos_comments']))
-            posts1.at[i,'pos_comments'] = posts1.at[i,'pos_comments'] + 1
+            posts.at[i,'pos_comments'] = posts.at[i,'pos_comments'] + 1
             k=k+1
 
         elif sentiment_analysis[0]['label'] == 'negative':
             comment_scores.append(0-sentiment_analysis[0]['score'])
             # print("Negative="+str(posts1.at[i,'neg_comments']))
-            posts1.at[i,'neg_comments'] = posts1.at[i,'neg_comments'] + 1
+            posts.at[i,'neg_comments'] = posts.at[i,'neg_comments'] + 1
             k=k+1
-    # print(comment_scores)
-        
-    # print("i="+str(i))
-    # print("Final Positives="+str(int(posts1.at[i,'pos_comments'])))
-    # print("Final Negatives="+str(int(posts1.at[i,'neg_comments'])))
-    total_comments= int(posts1.at[i,'pos_comments']) + int(posts1.at[i,'neg_comments'])
-    posts1.at[i,"avg_comment_score"]= float(sum(comment_scores)/total_comments)
-    posts1.at[i,"title_score"]= float(title_sentiment_analysis[0]['score']) if title_sentiment_analysis[0]['label']== 'positive'else (0-float(title_sentiment_analysis[0]['score']))
-    posts1.at[i,"body_score"]= float(body_sentiment_analysis[0]['score']) if body_sentiment_analysis[0]['label']== 'positive'else (0-float(body_sentiment_analysis[0]['score']))
 
+    total_comments= int(posts.at[i,'pos_comments']) + int(posts.at[i,'neg_comments'])
+    posts.at[i,"avg_comment_score"]= float(sum(comment_scores)/total_comments)
+    posts.at[i,"title_score"]= float(title_sentiment_analysis[0]['score']) if title_sentiment_analysis[0]['label']== 'positive'else (0-float(title_sentiment_analysis[0]['score']))
+    posts.at[i,"body_score"]= float(body_sentiment_analysis[0]['score']) if body_sentiment_analysis[0]['label']== 'positive'else (0-float(body_sentiment_analysis[0]['score']))
+    print(f"{post_id} processed")
 
-"""Constructing Graphs"""
+count = 0
+for i, post_id in posts[['id']].itertuples():
+    process_post_sentiment(i, post_id)
+    print(str(i)+" - "+post_id+" "+ str(count))
+    count=count+1
 
-
-
-
+posts.to_csv('ethereum_subreddit_analysis.csv')
 
