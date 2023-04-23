@@ -147,19 +147,19 @@ def process_post_sentiment(i, post_id):
     title_tokens = word_tokenize(posts.at[i,"title"])
     title_tokens_without_sw = [word for word in title_tokens if not word in stopwords.words()]
     filtered_title = (" ").join(title_tokens_without_sw)
-    if len(filtered_title) < 450:
+    if len(filtered_title) < 300:
         title_sentiment_analysis = specific_model(filtered_title)
     else:
-        title_sentiment_analysis = sliding_window(filtered_title, 200)
+        title_sentiment_analysis = sliding_window(filtered_title, 100)
 
     body_tokens = word_tokenize(posts.at[i,"body"])
     body_tokens_without_sw = [word for word in body_tokens if not word in stopwords.words()]
     filtered_body = (" ").join(body_tokens_without_sw)
     filtered_body = re.sub('http[s]?://\S+', '', filtered_body)
-    if len(filtered_body) < 450:
+    if len(filtered_body) < 300:
         body_sentiment_analysis = specific_model(filtered_body)
     else:
-        body_sentiment_analysis = sliding_window(filtered_body, 100)
+        body_sentiment_analysis = sliding_window(filtered_body, 75)
 
     
     posts.at[i,'pos_comments'] = 0
@@ -177,7 +177,7 @@ def process_post_sentiment(i, post_id):
         filtered_comment = emoji.replace_emoji(filtered_comment, replace='')
         
         # print("\nID="+submission_id +" --"+str(len(comment_tokens_without_sw))+" "+str(count)+" "+filtered_comment + "\n Actual Comment: ]\n"+comment)
-        if(len(comment_tokens_without_sw)<400):
+        if(len(comment_tokens_without_sw)<300):
             sentiment_analysis=specific_model(filtered_comment)
         else: #Limitation of BERT
             sentiment_analysis=sliding_window(filtered_comment,100)
