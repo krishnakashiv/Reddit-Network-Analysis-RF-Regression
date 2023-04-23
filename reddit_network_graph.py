@@ -13,6 +13,9 @@ import datetime
 import praw
 import networkx as nx
 
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import MinMaxScaler
+
 print("Starting execu")
 
 # Initialize the PRAW Reddit instance
@@ -115,7 +118,8 @@ for i, row in posts.iterrows():
 # for author, centrality in eigenvector_sorted[:10]:
 #     print(author, centrality)
 
-graph.number_of_nodes()
+print(graph.number_of_nodes())
+print(graph.number_of_nodes())
 
 pagerank = nx.pagerank(graph)
 
@@ -129,9 +133,6 @@ df = pd.DataFrame(sorted_pagerank, columns=['author', 'score'])
 df.head()
 
 features = df
-
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import MinMaxScaler
 
 ct = ColumnTransformer([
         ('somename', MinMaxScaler(), ['score'])
