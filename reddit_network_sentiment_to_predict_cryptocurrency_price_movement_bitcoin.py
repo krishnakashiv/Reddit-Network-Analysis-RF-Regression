@@ -23,6 +23,7 @@ from nltk.corpus import stopwords
 nltk.download('stopwords')
 nltk.download('punkt')
 import re
+import string
 
 #Sentiment Analysis Models
 from transformers import pipeline
@@ -169,7 +170,7 @@ def process_post_sentiment(i, post_id):
         comment = re.sub('http[s]?://\S+', '', comment)
         comment_tokens = word_tokenize(comment)
         comment_tokens_without_sw = [word for word in comment_tokens if not word in stopwords.words()]
-        
+        comment_tokens_without_sw = [s for s in comment_tokens_without_sw if not (s.isdigit() or (s.count('.')== 1 and s.replace('.','').isdigit()) or all(c in string.punctuation for c in s))]
         
         count=count+1
         filtered_comment = re.sub(r'^https?:\/\/.*[\r\n]*', '', (" ").join(comment_tokens_without_sw), flags=re.MULTILINE)
