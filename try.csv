@@ -1499,8 +1499,8 @@ What do you think?",2017-12-22 14:05:48,126,42,0.4972025759163357,0.981083333492
 
 I tend to think it is the bank institutions paying to the newspapers to persuade the population into getting away from it, but ofc this is just me ranting. 
 
-Does the same thing happen in your countries? I'm curious about it",2017-12-28 10:49:36,0,0,0.0,0.0,0.0
-0,"Vitalik Buterin: Cryptocurrency Should Focus Less on Profit, More on ""Achieving Something Meaningful""",7743,7mve4y,ethereum,https://www.dashforcenews.com/vitalik-buterin-cryptocurrency-focus-less-profit-achieving-something-meaningful/,900,,2017-12-29 16:47:48,0,0,0.0,0.0,0.0
+Does the same thing happen in your countries? I'm curious about it",2017-12-28 10:49:36,89,194,-0.364638751892656,-0.9989909529685974,-0.998150110244751
+0,"Vitalik Buterin: Cryptocurrency Should Focus Less on Profit, More on ""Achieving Something Meaningful""",7743,7mve4y,ethereum,https://www.dashforcenews.com/vitalik-buterin-cryptocurrency-focus-less-profit-achieving-something-meaningful/,900,,2017-12-29 16:47:48,194,230,-0.08160281195393149,-0.8940582871437073,0.9809975028038025
 222,Correcting r/bitcoin's misinformation: I just fully verified the entire ethereum blockchain on a 2+ years old desktop and it only took 25 hours (full log included),1610,7n4v64,ethereum,https://www.reddit.com/r/ethereum/comments/7n4v64/correcting_rbitcoins_misinformation_i_just_fully/,256,"In a recent [r/bitcoin's thread](https://archive.is/hUC59) /u/thieflar claims that with 'a very nice machine' he was unable to finish validation of the ethereum blockchain and that the near impossibility of it is apparently an accepted fact even among ethereum's developers:  
 
 >The developers of Ethereum know that this is an issue, they are fully aware that their network relies on trust at this point, and they don't even try to deny it.
@@ -1536,25 +1536,25 @@ Downloading the tip:
 **Conclusion: any pc that can run a modern game can easily fully sync (no state snapshot downloading, only blocks) and run a full ethereum node.**  
 
 
-^^^edit: ^^^apparently ^^^reddit ^^^immediately ^^^deletes ^^^posts ^^^with ^^^links ^^^to ^^^mega",2017-12-30 23:21:45,0,0,0.0,0.0,0.0
+^^^edit: ^^^apparently ^^^reddit ^^^immediately ^^^deletes ^^^posts ^^^with ^^^links ^^^to ^^^mega",2017-12-30 23:21:45,105,160,-0.1940367860614129,-0.8488178849220276,-0.9326538244883219
 511,"🍾 Happy 2018, dear Ethereum community! 🌕",925,7n9hc1,ethereum,https://www.reddit.com/r/ethereum/comments/7n9hc1/happy_2018_dear_ethereum_community/,85,"2017 was indeed an exciting year for Ethereum. I wish everyone a happy new year!
 
-If you feel like it, post your **2017 Ethereum highlights** in this thread. I'm curious what your personal experiences were like. But please, respect one straightforward rule: No price discussion and no ICO talk, thanks! :)",2017-12-31 16:49:35,0,0,0.0,0.0,0.0
-288,Germany Legalizes crypto’s,1381,8128rd,ethereum,https://www.coindesk.com/germany-considers-crypto-legal-equivalent-to-fiat-for-tax-purposes/,77,,2018-01-03 03:27:02,0,0,0.0,0.0,0.0
-729,Hacker Recovers $26 Million Worth of Ethereum Stolen From CoinDash,723,817swr,ethereum,http://bitguru.co.uk/hacker-returns-20000-ether-to-coindash-in-another-installment-recovering-26-million-in-stolen-coins/,47,,2018-01-03 19:08:49,0,0,0.0,0.0,0.0
-586,CoinMarketCap Starts Listing Prices In Lambos,857,88qgd8,ethereum,https://www.btcnn.com/coinmarketcap-starts-listing-prices-in-lambos/,69,,2018-01-04 12:27:30,0,0,0.0,0.0,0.0
-592,Vitalik says Ethereum will eventually support millions of transactions per second,850,8nuj6j,ethereum,https://www.chepicap.com/en/videos/953/vitalik-says-ethereum-will-eventually-support-millions-of-transactions-per-second.html,177,,2018-01-06 19:03:51,0,0,0.0,0.0,0.0
-894,This is how BTC's Lightning Network is supposed to work - please learn from their mistake,609,7q3iw9,ethereum,https://i.redd.it/qetlzlfbxs901.png,232,,2018-01-13 09:12:12,0,0,0.0,0.0,0.0
-707,My friend loves ethereum so I made cupcakes,734,7q9xlf,ethereum,https://i.redd.it/0v53xwmaty901.jpg,60,,2018-01-14 04:59:57,0,0,0.0,0.0,0.0
-5,"The Ethereum blockchain now processes about as much USD value as all other blockchains combined, including Bitcoin.",6385,7qckfb,ethereum,https://i.redd.it/teyeczyp12a01.png,537,,2018-01-14 15:52:36,0,0,0.0,0.0,0.0
-317,VISA is looking for an engineer with Ethereum and Solidity experience for distributed application / blockchain solution B2B Connect,1316,7qjeix,ethereum,https://www.indeed.com/m/viewjob?jk=b36f4dbb6b6140d5&from=serp,69,,2018-01-15 12:34:05,0,0,0.0,0.0,0.0
+If you feel like it, post your **2017 Ethereum highlights** in this thread. I'm curious what your personal experiences were like. But please, respect one straightforward rule: No price discussion and no ICO talk, thanks! :)",2017-12-31 16:49:35,74,9,0.7617683374738119,0.9987419247627258,0.9991559982299805
+288,Germany Legalizes crypto’s,1381,8128rd,ethereum,https://www.coindesk.com/germany-considers-crypto-legal-equivalent-to-fiat-for-tax-purposes/,77,,2018-01-03 03:27:02,22,47,-0.39469178690426593,0.9686095118522644,0.9809975028038025
+729,Hacker Recovers $26 Million Worth of Ethereum Stolen From CoinDash,723,817swr,ethereum,http://bitguru.co.uk/hacker-returns-20000-ether-to-coindash-in-another-installment-recovering-26-million-in-stolen-coins/,47,,2018-01-03 19:08:49,14,29,-0.35527374439461284,-0.9717110991477966,0.9809975028038025
+586,CoinMarketCap Starts Listing Prices In Lambos,857,88qgd8,ethereum,https://www.btcnn.com/coinmarketcap-starts-listing-prices-in-lambos/,69,,2018-01-04 12:27:30,32,31,0.027354440991840666,0.9926336407661438,0.9809975028038025
+592,Vitalik says Ethereum will eventually support millions of transactions per second,850,8nuj6j,ethereum,https://www.chepicap.com/en/videos/953/vitalik-says-ethereum-will-eventually-support-millions-of-transactions-per-second.html,177,,2018-01-06 19:03:51,77,71,0.04707442747580039,0.9980654120445251,0.9809975028038025
+894,This is how BTC's Lightning Network is supposed to work - please learn from their mistake,609,7q3iw9,ethereum,https://i.redd.it/qetlzlfbxs901.png,232,,2018-01-13 09:12:12,100,139,-0.1301676274551341,-0.998819887638092,0.9809975028038025
+707,My friend loves ethereum so I made cupcakes,734,7q9xlf,ethereum,https://i.redd.it/0v53xwmaty901.jpg,60,,2018-01-14 04:59:57,41,13,0.5102716209711852,0.9980564713478088,0.9809975028038025
+5,"The Ethereum blockchain now processes about as much USD value as all other blockchains combined, including Bitcoin.",6385,7qckfb,ethereum,https://i.redd.it/teyeczyp12a01.png,537,,2018-01-14 15:52:36,222,198,0.04700567187770964,0.9954497218132019,0.9809975028038025
+317,VISA is looking for an engineer with Ethereum and Solidity experience for distributed application / blockchain solution B2B Connect,1316,7qjeix,ethereum,https://www.indeed.com/m/viewjob?jk=b36f4dbb6b6140d5&from=serp,69,,2018-01-15 12:34:05,46,20,0.358092671994007,0.9982489347457886,0.9809975028038025
 365,"""2018 [within the Ethereum space] will be the year of action""",1185,7qofmp,ethereum,https://www.reddit.com/r/ethereum/comments/7qofmp/2018_within_the_ethereum_space_will_be_the_year/,179,"[**Vitalik Buterin's statement to TechCrunch:**](https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2018/01/15/vitalik-buterin-fenbushi-capital-exit/amp/)
 
 ""2017 really has been the year where hype in crypto, including financial hype and social hype in general has far exceeded the reality of what existing blockchain systems can offer. There is a lot of attention, and a lot of eager expectation, but as far as reality goes the practical usability of blockchains has in some cases even regressed due to rising transaction fees.
 
 I expect 2018, at least within the Ethereum space that I’m best able to speak about, will be the year of action. **It will be the year where all of the ideas around scalability, Plasma, proof-of-stake, and privacy that we have painstakingly worked on and refined over the last four years are finally going to turn into real, live working code** that you can play around in a highly mature form in some cases on testnets, and in some key cases even on the public mainnet. **Everyone in the Ethereum space recognizes that the world is watching, and we are ready to deliver.**""
 
-*Note:* ***emphasis*** *added by me.*",2018-01-16 00:33:34,0,0,0.0,0.0,0.0
+*Note:* ***emphasis*** *added by me.*",2018-01-16 00:33:34,92,72,0.11233232951745754,0.9859606027603149,-0.9280179540316263
 361,[Mod Request] Can we clean up the sub and get back to technical threads only?,1201,7qxp2v,ethereum,https://www.reddit.com/r/ethereum/comments/7qxp2v/mod_request_can_we_clean_up_the_sub_and_get_back/,75,"And I mean really technical. Too many thinly veiled ICO/Poject pump threads. Even if it means we have fewer topics, ICOs and Project chatter need to to find their own places to shill.
 
 r/ethereum should be for EIPs, Dev Updates, Questions from new and old timers and politicking about gas prices (or whatever is of flavour of the month wrt scaling, casper, technical hurdles, etc.).
@@ -1565,15 +1565,15 @@ r/ethereum should be for EIPs, Dev Updates, Questions from new and old timers an
 
 More policing in here is needed. We're closing in on Eternal September and Up/Down votes aren't cutting it anymore. The old timers are getting tired of reading drivel and the newcomers are getting the wrong impression about what this sub is for.
 
-Perhaps, new and more active mods on the roster would assist, along with some clearer rules (like if the project name is in the title, it's probably an advertisement and not about the tech, or something to that effect).",2018-01-17 02:14:06,0,0,0.0,0.0,0.0
-788,“Mark Cuban Says Mavs Will Accept Cryptocurrency Next Season”,676,7qy311,ethereum,https://www.si.com/nba/2018/01/16/mark-cuban-mavericks-cryptocurrency-bitcoin-ethereum,38,,2018-01-17 03:17:08,0,0,0.0,0.0,0.0
-549,Cornell Professor Claims Ethereum is More Distributed and Decentralized Than Bitcoin,877,7r00a8,ethereum,https://coinjournal.net/cornell-professor-claims-ethereum-distributed-decentralized-bitcoin/,69,,2018-01-17 10:02:22,0,0,0.0,0.0,0.0
-404,The DAI stablecoin has been perfectly stable during this market crash. Congrats MakerDAO!!,1096,7r3ji0,ethereum,https://www.reddit.com/r/ethereum/comments/7r3ji0/the_dai_stablecoin_has_been_perfectly_stable/,463,,2018-01-17 19:29:25,0,0,0.0,0.0,0.0
-510,"I've built CryptoCribs, an alternative to Airbnb for the crypto community, here's a link to the world's largest podcast for Airbnb hosts where I try to convince them to start accepting Ether :)",927,7rgomk,ethereum,https://getpaidforyourpad.com/podcast/cryptocribs-airbnb-crypto-currency-users/,148,,2018-01-19 07:16:10,0,0,0.0,0.0,0.0
-16,Canada trialing use of Ethereum blockchain to enhance transparency of govt funding,4730,7ruz2a,ethereum,https://globalnews.ca/news/3977745/ethereum-blockchain-canada-nrc/,175,,2018-01-21 02:18:10,0,0,0.0,0.0,0.0
-493,Beyond the Bitcoin Bubble,943,7s29in,ethereum,https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html?smid=tw-share,131,,2018-01-22 01:31:57,0,0,0.0,0.0,0.0
-664,Ethereum Yellow Paper has been updated,769,7s672s,ethereum,https://github.com/ethereum/yellowpaper/blob/master/README.md,53,,2018-01-22 14:47:45,0,0,0.0,0.0,0.0
-228,"Vitalik Buterin’s father: fiat currencies are backed by collective hallucination, just like cryptos",1582,7sdqa7,ethereum,https://bitnewstoday.com/news/ethereum/vitalik-buterin-s-father-fiat-currencies-are-backed-by-collective-hallucination-just-like-cryptos/,373,,2018-01-23 11:17:31,0,0,0.0,0.0,0.0
+Perhaps, new and more active mods on the roster would assist, along with some clearer rules (like if the project name is in the title, it's probably an advertisement and not about the tech, or something to that effect).",2018-01-17 02:14:06,46,29,0.23302932421366374,-0.9786231517791748,0.8711463809013367
+788,“Mark Cuban Says Mavs Will Accept Cryptocurrency Next Season”,676,7qy311,ethereum,https://www.si.com/nba/2018/01/16/mark-cuban-mavericks-cryptocurrency-bitcoin-ethereum,38,,2018-01-17 03:17:08,12,18,-0.16999491453170776,0.9935563206672668,0.9809975028038025
+549,Cornell Professor Claims Ethereum is More Distributed and Decentralized Than Bitcoin,877,7r00a8,ethereum,https://coinjournal.net/cornell-professor-claims-ethereum-distributed-decentralized-bitcoin/,69,,2018-01-17 10:02:22,32,33,-0.010508334636688233,0.9860215783119202,0.9809975028038025
+404,The DAI stablecoin has been perfectly stable during this market crash. Congrats MakerDAO!!,1096,7r3ji0,ethereum,https://www.reddit.com/r/ethereum/comments/7r3ji0/the_dai_stablecoin_has_been_perfectly_stable/,463,,2018-01-17 19:29:25,199,221,-0.041549641603515264,0.9977585077285767,0.9809975028038025
+510,"I've built CryptoCribs, an alternative to Airbnb for the crypto community, here's a link to the world's largest podcast for Airbnb hosts where I try to convince them to start accepting Ether :)",927,7rgomk,ethereum,https://getpaidforyourpad.com/podcast/cryptocribs-airbnb-crypto-currency-users/,148,,2018-01-19 07:16:10,96,48,0.3158080151511563,0.998842179775238,0.9809975028038025
+16,Canada trialing use of Ethereum blockchain to enhance transparency of govt funding,4730,7ruz2a,ethereum,https://globalnews.ca/news/3977745/ethereum-blockchain-canada-nrc/,175,,2018-01-21 02:18:10,105,63,0.24819695488328025,0.9927899241447449,0.9809975028038025
+493,Beyond the Bitcoin Bubble,943,7s29in,ethereum,https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html?smid=tw-share,131,,2018-01-22 01:31:57,58,73,-0.11589279429603169,0.9965221881866455,0.9809975028038025
+664,Ethereum Yellow Paper has been updated,769,7s672s,ethereum,https://github.com/ethereum/yellowpaper/blob/master/README.md,53,,2018-01-22 14:47:45,35,20,0.2759661692561525,0.9971062541007996,0.9809975028038025
+228,"Vitalik Buterin’s father: fiat currencies are backed by collective hallucination, just like cryptos",1582,7sdqa7,ethereum,https://bitnewstoday.com/news/ethereum/vitalik-buterin-s-father-fiat-currencies-are-backed-by-collective-hallucination-just-like-cryptos/,373,,2018-01-23 11:17:31,80,240,-0.4885232188738883,-0.9456547498703003,0.9809975028038025
 480,I created Wednesday Coin - a coin that can only be sent on Wednesdays and I will be airdropping them to whomever wants some,963,7snqpj,ethereum,https://www.reddit.com/r/ethereum/comments/7snqpj/i_created_wednesday_coin_a_coin_that_can_only_be/,735,"Updated Contract - If you previously had WednesdayCoin, come Wednesday you will also have the new one :)
 
 Final Update: Wednesday is Done! Thank you to everyone here! And sorry if I didn’t get to send you WednesdayCoin; This exploded-way more than I could keep up with but I plan to keep it going. I have created /r/WednesdayCoin and will be talking more about Wednesday Coin and working potentially on a faucet or tipbot as well, so come join us there. I recommend NOT trying to send the coins when it is not Wednesday since the transaction will go through as Successful but the coins won’t actually transfer so you will lose what you spent as gas. I will still try to respond to as many questions as I can here. Thanks to everyone and I hope you have had a great Wednesday and see you next Wednesday!
@@ -1604,19 +1604,19 @@ Update 3: Less than 2 hours to go! I am trying to send to as many people as I ca
 
 Update 2: Hey all it is a little over 8pm UTC and I will continue to try to send out and respond as much as I can before the day's end. I may also get someone else to help me send some Wednesday coins out to get it done faster. Thanks again to everyone and don't forget to share with your friends! 
 
-Update: Thanks everyone, I am responding and sending coins out as fast as I can! I still got a lot of coins to give out and will continue giving them out but if there is any problems with the coins sent please PM. I will be monitoring this as closely as I can for new addresses and if you don't want to post your address here, please feel free to PM me. Thanks again! ",2018-01-24 15:17:22,0,0,0.0,0.0,0.0
-747,"Congrats to @naterush1997 and @dannyryan for releasing v0.2 of the cbc Casper prototypes, last night!",702,7svh8y,ethereum,https://twitter.com/VladZamfir/status/956482358567317505,67,,2018-01-25 11:29:52,0,0,0.0,0.0,0.0
-167,NASA Awards Grant For Ethereum Blockchain-Related Research,1840,7t0kmu,ethereum,http://westerndawn.infos.st//index/nasa-awards-grant-ethereum-blockchain-related-research/,83,,2018-01-25 23:58:30,0,0,0.0,0.0,0.0
-565,Vitalik: First Part of Ethereum's Sharding Roadmap Is Nearly Done,873,7t7swq,ethereum,http://archive.is/CN23U,103,,2018-01-26 21:24:21,0,0,0.0,0.0,0.0
-68,78% of you wanted ethereum art over bitcoin so I made this,2782,7tavmx,ethereum,https://i.redd.it/m7c8pu33vjc01.png,159,,2018-01-27 05:55:38,0,0,0.0,0.0,0.0
+Update: Thanks everyone, I am responding and sending coins out as fast as I can! I still got a lot of coins to give out and will continue giving them out but if there is any problems with the coins sent please PM. I will be monitoring this as closely as I can for new addresses and if you don't want to post your address here, please feel free to PM me. Thanks again! ",2018-01-24 15:17:22,370,67,0.675948597337343,0.9927492141723633,-0.9978504061698914
+747,"Congrats to @naterush1997 and @dannyryan for releasing v0.2 of the cbc Casper prototypes, last night!",702,7svh8y,ethereum,https://twitter.com/VladZamfir/status/956482358567317505,67,,2018-01-25 11:29:52,48,18,0.443682026682478,0.9988162517547607,0.9809975028038025
+167,NASA Awards Grant For Ethereum Blockchain-Related Research,1840,7t0kmu,ethereum,http://westerndawn.infos.st//index/nasa-awards-grant-ethereum-blockchain-related-research/,83,,2018-01-25 23:58:30,42,48,-0.09008046918445163,0.9974271655082703,0.9809975028038025
+565,Vitalik: First Part of Ethereum's Sharding Roadmap Is Nearly Done,873,7t7swq,ethereum,http://archive.is/CN23U,103,,2018-01-26 21:24:21,56,50,0.06958755738330337,0.9314385056495667,0.9809975028038025
+68,78% of you wanted ethereum art over bitcoin so I made this,2782,7tavmx,ethereum,https://i.redd.it/m7c8pu33vjc01.png,159,,2018-01-27 05:55:38,117,23,0.6551033028534481,0.9927759170532227,0.9809975028038025
 452,300k Etherians!,1010,7tj0ll,ethereum,https://www.reddit.com/r/ethereum/comments/7tj0ll/300k_etherians/,65,"Congrats Ethereans, we're over 300k strong. May we continue to grow, prosper, and spread the gospel of decentralisation :)
 
 Centralisation is power.     
 Power corrupts.     
 Ethereum decentralises all the things.
-",2018-01-28 07:50:07,0,0,0.0,0.0,0.0
-221,Happy 5 millionth!,1609,7u12nl,ethereum,https://i.redd.it/k2rlmrn5l7d01.png,52,,2018-01-30 13:42:46,0,0,0.0,0.0,0.0
-951,Scam! Alert!: Multiple imposter accounts with variation of Vitalik's handle asking for money,570,7u9yhh,ethereum,https://twitter.com/VittalikButerin/status/958061462580318208,72,,2018-01-31 13:43:20,0,0,0.0,0.0,0.0
+",2018-01-28 07:50:07,34,27,0.13260761636202453,0.9943302869796753,0.9975893497467041
+221,Happy 5 millionth!,1609,7u12nl,ethereum,https://i.redd.it/k2rlmrn5l7d01.png,52,,2018-01-30 13:42:46,29,16,0.2864657547738817,0.9987117052078247,0.9809975028038025
+951,Scam! Alert!: Multiple imposter accounts with variation of Vitalik's handle asking for money,570,7u9yhh,ethereum,https://twitter.com/VittalikButerin/status/958061462580318208,72,,2018-01-31 13:43:20,28,42,-0.2348028069450742,-0.9975385665893555,0.9809975028038025
 658,"Had a 2 week gap between my last job and my new job so I made it a goal to learn iOS development and get an app published on the App Store, thus Coin Trade Alerts was born",780,7njsnq,ethereum,https://www.reddit.com/r/ethereum/comments/7njsnq/had_a_2_week_gap_between_my_last_job_and_my_new/,78,"CHECKOUT THE FOLLOWUP POST [HERE](https://www.reddit.com/r/ethereum/comments/7npzhg/coin_trade_alerts_a_followup_to_my_viral_post_new/)
 
 ____
@@ -1663,7 +1663,7 @@ ______________________________________________________________________________
 
 Additionally, I received a lot of great feedback from you guys, which is why I spent quite a few hours yesterday/today building a brand new website that will offer the exact same functionality as the mobile app, but in your browser! I plan on deploying in the days to come. I will be adding all user requests to the website as well.
 
-What's currently on my todo list: 1) Security alerts! I had a phenomenal request from /u//swingvitamin to set up alerts when transfers/instant purchases are made on your account to try and combat account theft. I think this was an awesome idea and I will be working to bring this out ASAP!",2018-02-01 03:23:42,0,0,0.0,0.0,0.0
+What's currently on my todo list: 1) Security alerts! I had a phenomenal request from /u//swingvitamin to set up alerts when transfers/instant purchases are made on your account to try and combat account theft. I think this was an awesome idea and I will be working to bring this out ASAP!",2018-02-01 03:23:42,55,25,0.36116609945893285,0.9945975542068481,-0.9190413885646396
 304,"Vitalik offering $50,000 up to $1,000,000 to join the Sharding client subsidy program - Registrations Now Open",1337,7nndzf,ethereum,https://www.reddit.com/r/ethereum/comments/7nndzf/vitalik_offering_50000_up_to_1000000_to_join_the/,162,"More Info: https://blog.ethereum.org/2018/01/02/ethereum-scalability-research-development-subsidy-programs/
 
 **How to apply**
@@ -1676,13 +1676,13 @@ The first step is to send an email to apply@ethereumresearch.org, with the follo
 * Estimated timeline for development milestones and completion, request for grant amount and estimated total overall budget
 * If we’re sufficiently interested, we’ll proceed from there with requests for further information.
 
-",2018-02-01 16:20:11,0,0,0.0,0.0,0.0
-439,"""Whether it is wealth inequality, corruption, identity fraud, theft or confiscation, Ethereum holds the potential to improve upon the status quo by many orders of magnitude. """,1033,7ut6fm,ethereum,https://ethereumprice.org/future-ether-economy/,126,,2018-02-02 18:04:03,0,0,0.0,0.0,0.0
-808,Porsche Is Testing Ethereum Blockchain Tech In Their Cars!!!,664,81ai1k,ethereum,https://www.youtube.com/watch?v=wsiBP5HRccE,130,,2018-02-03 01:05:37,0,0,0.0,0.0,0.0
-678,Interview with Founder of Ethereum Vitalik Buterin,757,81gyy4,ethereum,https://youtu.be/dobjeDXsPIA,131,,2018-02-03 19:16:01,0,0,0.0,0.0,0.0
-874,"Did you know the UN gave ETH vouchers to 10,000 Syrian refugees so they could buy food? Ethereum is helping global human rights!",628,88z8uy,ethereum,https://www.investinblockchain.com/blockchain-improving-human-rights/,99,,2018-02-04 13:21:45,0,0,0.0,0.0,0.0
-691,"Over $10,000,000 is circulating in Ethereum games each week",749,7x796i,ethereum,https://medium.com/@skirmantas.januskas/over-10-000-000-is-circulating-in-ethereum-games-each-week-49cd67f46916,103,,2018-02-13 05:32:18,0,0,0.0,0.0,0.0
-63,Forbes Quote Of The Day: Vitalik Buterin,2844,7xca7k,ethereum,https://i.redd.it/8ub097yuf1g01.png,112,,2018-02-13 20:15:06,0,0,0.0,0.0,0.0
+",2018-02-01 16:20:11,82,81,0.001577561984032941,0.9732667207717896,-0.9840346276760101
+439,"""Whether it is wealth inequality, corruption, identity fraud, theft or confiscation, Ethereum holds the potential to improve upon the status quo by many orders of magnitude. """,1033,7ut6fm,ethereum,https://ethereumprice.org/future-ether-economy/,126,,2018-02-02 18:04:03,49,68,-0.15310466014421906,0.9150554537773132,0.9809975028038025
+808,Porsche Is Testing Ethereum Blockchain Tech In Their Cars!!!,664,81ai1k,ethereum,https://www.youtube.com/watch?v=wsiBP5HRccE,130,,2018-02-03 01:05:37,81,40,0.3326410690615,0.9906789660453796,0.9809975028038025
+678,Interview with Founder of Ethereum Vitalik Buterin,757,81gyy4,ethereum,https://youtu.be/dobjeDXsPIA,131,,2018-02-03 19:16:01,77,51,0.19696367299184203,0.9941733479499817,0.9809975028038025
+874,"Did you know the UN gave ETH vouchers to 10,000 Syrian refugees so they could buy food? Ethereum is helping global human rights!",628,88z8uy,ethereum,https://www.investinblockchain.com/blockchain-improving-human-rights/,99,,2018-02-04 13:21:45,36,71,-0.29285714800855456,0.8386014103889465,0.9809975028038025
+691,"Over $10,000,000 is circulating in Ethereum games each week",749,7x796i,ethereum,https://medium.com/@skirmantas.januskas/over-10-000-000-is-circulating-in-ethereum-games-each-week-49cd67f46916,103,,2018-02-13 05:32:18,47,43,0.0548471106423272,0.9952971339225769,0.9809975028038025
+63,Forbes Quote Of The Day: Vitalik Buterin,2844,7xca7k,ethereum,https://i.redd.it/8ub097yuf1g01.png,112,,2018-02-13 20:15:06,60,49,0.11930479970547038,0.9943493008613586,0.9809975028038025
 527,Welcome to r/ethereum - the Reddit frontpage of the Web 3.0; seriously: Read this to get started! :),909,7xgvat,ethereum,https://www.reddit.com/r/ethereum/comments/7xgvat/welcome_to_rethereum_the_reddit_frontpage_of_the/,206,"---
 
 ## Welcome!
@@ -1897,10 +1897,10 @@ The moderation logs are [public and available for review here](http://snew.githu
 - [Is there a limit for **transaction size**?](https://ethereum.stackexchange.com/q/1106)
 - [How to **Mine Ether** and use Ethereum on Windows?](https://ethereum.stackexchange.com/q/110)
 - [**How many transactions** can the network handle?](https://ethereum.stackexchange.com/q/1034)
-",2018-02-14 09:27:39,0,0,0.0,0.0,0.0
-695,Geth v1.8.0: Iceberg! Go and sync mainnet within a minute!,744,7xi4m1,ethereum,https://blog.ethereum.org/2018/02/14/geth-1-8-iceberg%C2%B9/,114,,2018-02-14 13:53:34,0,0,0.0,0.0,0.0
-803,Now Shopify merchants can accept Ethereum on their stores,672,7xlkwk,ethereum,https://litefy.com/blog/how-to-accept-crypto-on-shopify-with-coinbase-commerce/,75,,2018-02-14 21:41:30,0,0,0.0,0.0,0.0
-400,"Because of Coinbase Commerce, I was able to add Ethereum as a payment option on our store today!",1104,7xsecb,ethereum,https://dry.camp,87,,2018-02-15 18:30:19,0,0,0.0,0.0,0.0
+",2018-02-14 09:27:39,46,28,0.2580221746418927,0.9986781477928162,-0.9805004698474232
+695,Geth v1.8.0: Iceberg! Go and sync mainnet within a minute!,744,7xi4m1,ethereum,https://blog.ethereum.org/2018/02/14/geth-1-8-iceberg%C2%B9/,114,,2018-02-14 13:53:34,82,35,0.38116012220708734,0.9954032897949219,0.9809975028038025
+803,Now Shopify merchants can accept Ethereum on their stores,672,7xlkwk,ethereum,https://litefy.com/blog/how-to-accept-crypto-on-shopify-with-coinbase-commerce/,75,,2018-02-14 21:41:30,44,39,0.061760799712445365,0.9960615038871765,0.9809975028038025
+400,"Because of Coinbase Commerce, I was able to add Ethereum as a payment option on our store today!",1104,7xsecb,ethereum,https://dry.camp,87,,2018-02-15 18:30:19,44,39,0.06006679262023374,0.9987905621528625,0.9809975028038025
 961,Exposing Ethereum Honeypots,567,7xvoui,ethereum,https://www.reddit.com/r/ethereum/comments/7xvoui/exposing_ethereum_honeypots/,47,"I've noticed a plethora of scam/honeypot contracts being published on etherscan. I've also been wanting to contribute to the ethereum community more and so I thought this would be a perfect opportunity to do a little write up that would go over the details of some of these contracts. There will be a bit of code in this post, though nothing too complex. Hopefully this will serve as an educational piece, but bear with me as I don't often write posts.
 ### Dividend Distributor
 https://etherscan.io/address/0x858c9eaf3ace37d2bedb4a1eb6b8805ffe801bba#code
@@ -1987,13 +1987,13 @@ On a side note, I've contacted etherscan about this issue and I imagine they wil
 
 ### Summary
 
-If anything, I hope this has been an entertaining read. If you have any questions regarding the content of this post or questions about Solidity in general, ask away; I'll do my best to answer.",2018-02-16 02:32:02,0,0,0.0,0.0,0.0
-386,Spain Wants To Attract Blockchain and Cryptocurrency Companies With Lower Taxes,1143,7xxxnw,ethereum,https://usethebitcoin.com/spain-wants-attract-blockchain-cryptocurrency-companies-lower-taxes/,91,,2018-02-16 10:41:39,0,0,0.0,0.0,0.0
-185,Poland's Central Bank Secretly Paid Youtubers to Slander Cryptos,1744,7y88xz,ethereum,https://www.trustnodes.com/2018/02/17/polands-central-bank-secretly-paid-youtubers-slander-cryptos,74,,2018-02-17 18:09:34,0,0,0.0,0.0,0.0
-249,Switzerland Issues Guidelines in Order to Start ICOs and Become a “CryptoNation”,1522,7ydkap,ethereum,https://usethebitcoin.com/switzerland-issues-guidelines-order-start-icos-become-cryptonation/,103,,2018-02-18 10:40:50,0,0,0.0,0.0,0.0
-102,Wyoming Senate Bill Proposes to Exempt Cryptocurrencies from Taxes,2299,7ymml3,ethereum,https://usethebitcoin.com/wyoming-senate-bill-proposes-exempt-cryptocurrencies-taxes/,103,,2018-02-19 13:26:22,0,0,0.0,0.0,0.0
-253,United Nation World Food Programme using Ethereum Blockchain instead of Banks,1505,7yvlp6,ethereum,https://twitter.com/LiveCoinWatch/status/965679018283622402,35,,2018-02-20 12:44:35,0,0,0.0,0.0,0.0
-718,"US SEC is hunting down pump & dump groups - preparing for legal action, and offering rewards to whistleblowers!",730,7z0c11,ethereum,http://www.globalcryptopress.com/2018/02/us-sec-is-hunting-down-pump-dump-groups.html,106,,2018-02-20 22:43:49,0,0,0.0,0.0,0.0
+If anything, I hope this has been an entertaining read. If you have any questions regarding the content of this post or questions about Solidity in general, ask away; I'll do my best to answer.",2018-02-16 02:32:02,26,20,0.12933393405831378,0.9041553735733032,0.9559897581736246
+386,Spain Wants To Attract Blockchain and Cryptocurrency Companies With Lower Taxes,1143,7xxxnw,ethereum,https://usethebitcoin.com/spain-wants-attract-blockchain-cryptocurrency-companies-lower-taxes/,91,,2018-02-16 10:41:39,34,51,-0.19099460699978996,0.9951528310775757,0.9809975028038025
+185,Poland's Central Bank Secretly Paid Youtubers to Slander Cryptos,1744,7y88xz,ethereum,https://www.trustnodes.com/2018/02/17/polands-central-bank-secretly-paid-youtubers-slander-cryptos,74,,2018-02-17 18:09:34,21,45,-0.3893642190730933,-0.9984582662582397,0.9809975028038025
+249,Switzerland Issues Guidelines in Order to Start ICOs and Become a “CryptoNation”,1522,7ydkap,ethereum,https://usethebitcoin.com/switzerland-issues-guidelines-order-start-icos-become-cryptonation/,103,,2018-02-18 10:40:50,36,45,-0.08863370138921856,-0.9799931645393372,0.9809975028038025
+102,Wyoming Senate Bill Proposes to Exempt Cryptocurrencies from Taxes,2299,7ymml3,ethereum,https://usethebitcoin.com/wyoming-senate-bill-proposes-exempt-cryptocurrencies-taxes/,103,,2018-02-19 13:26:22,48,56,-0.07953377411915706,0.5856177806854248,0.9809975028038025
+253,United Nation World Food Programme using Ethereum Blockchain instead of Banks,1505,7yvlp6,ethereum,https://twitter.com/LiveCoinWatch/status/965679018283622402,35,,2018-02-20 12:44:35,24,11,0.34562402282442367,0.8879820108413696,0.9809975028038025
+718,"US SEC is hunting down pump & dump groups - preparing for legal action, and offering rewards to whistleblowers!",730,7z0c11,ethereum,http://www.globalcryptopress.com/2018/02/us-sec-is-hunting-down-pump-dump-groups.html,106,,2018-02-20 22:43:49,38,69,-0.2726770581857438,0.7762874960899353,0.9809975028038025
 516,"FYI: Atomic swaps between Ethereum, Erc20 tokens and Bitcoin-based coins have now be completed successfully on mainnet!",920,7zjgn2,ethereum,https://www.reddit.com/r/ethereum/comments/7zjgn2/fyi_atomic_swaps_between_ethereum_erc20_tokens/,64,"Support for Eth/Erc20 is soon going to be added to [Komodo's BarterDex p2p exchange](https://www.komodoplatform.com/en/technology/barterdex), after just ~2 months since concept, the first ""Etomic"" swap between Eth and a bitcoin-based coin (Doge) has been completed on mainnet. 
 
 https://github.com/dogethereum/dogerelay/issues/29
@@ -2003,13 +2003,13 @@ BarterDex has a working beta since a few months. So far it only supported [Bitco
 BarterDex works with on-chain atomic swaps. Ethereum doesn't have the opcodes necessary, for this reason many projects that are working on atomic swaps with Ethereum have focused on simulating the missing parts with smart contracts. 
 
 Komodo team has instead found a clever workaround that has rapidly led to success, it's less prone to bugs and also a lot cheaper in gas cost than all other solutions. 
-",2018-02-22 23:33:17,0,0,0.0,0.0,0.0
-779,Video shows you 3 ways hackers steal crypto currency inclduing printed paper wallets,679,7ztbhy,ethereum,https://www.youtube.com/watch?v=7BnFe913itE,95,,2018-02-24 01:37:11,0,0,0.0,0.0,0.0
-383,"Putin endorses Blockchain: The Stone Age has not ended due to the lack of stones, but because new technologies have appeared.",1152,800psk,ethereum,https://www.youtube.com/watch?v=-Toso2Cd_30,259,,2018-02-25 00:08:41,0,0,0.0,0.0,0.0
-909,"Light client, Geth 1.8.1 are great, only 1-3% cpu, 8% of 16GB memory, ~0% disk",602,804ms6,ethereum,https://www.reddit.com/r/ethereum/comments/804ms6/light_client_geth_181_are_great_only_13_cpu_8_of/,60,Caught up and synced 200k blocks in a few minutes. very resource un-intensive.  Congrats devs!,2018-02-25 14:08:00,0,0,0.0,0.0,0.0
-885,Georgia May Be the Next State to Accept Cryptocurrencies for Tax Purposes,615,805ufm,ethereum,https://usethebitcoin.com/georgia-may-next-state-accept-cryptocurrencies-tax-purposes/,37,,2018-02-25 17:21:07,0,0,0.0,0.0,0.0
-757,"Announcing our Full, Portable Solidity Debugger | Truffle Suite",701,80pjzk,ethereum,http://truffleframework.com/blog/announcing-full-portable-solidity-debugger,30,,2018-02-27 20:00:53,0,0,0.0,0.0,0.0
-389,JP Morgan Chase: Cryptocurrencies Pose A Risk To Our Business Model,1137,80w3ik,ethereum,https://www.btcnn.com/jp-morgan-chase-cryptocurrencies-pose-risk-business-model/,86,,2018-02-28 13:40:27,0,0,0.0,0.0,0.0
+",2018-02-22 23:33:17,43,23,0.2921272976831956,0.9984557628631592,-0.9873380362987518
+779,Video shows you 3 ways hackers steal crypto currency inclduing printed paper wallets,679,7ztbhy,ethereum,https://www.youtube.com/watch?v=7BnFe913itE,95,,2018-02-24 01:37:11,36,54,-0.208834922975964,-0.9965490102767944,0.9809975028038025
+383,"Putin endorses Blockchain: The Stone Age has not ended due to the lack of stones, but because new technologies have appeared.",1152,800psk,ethereum,https://www.youtube.com/watch?v=-Toso2Cd_30,259,,2018-02-25 00:08:41,81,176,-0.37008937694683147,0.892647922039032,0.9809975028038025
+909,"Light client, Geth 1.8.1 are great, only 1-3% cpu, 8% of 16GB memory, ~0% disk",602,804ms6,ethereum,https://www.reddit.com/r/ethereum/comments/804ms6/light_client_geth_181_are_great_only_13_cpu_8_of/,60,Caught up and synced 200k blocks in a few minutes. very resource un-intensive.  Congrats devs!,2018-02-25 14:08:00,43,17,0.4048183182875315,0.9955405592918396,0.9975289702415466
+885,Georgia May Be the Next State to Accept Cryptocurrencies for Tax Purposes,615,805ufm,ethereum,https://usethebitcoin.com/georgia-may-next-state-accept-cryptocurrencies-tax-purposes/,37,,2018-02-25 17:21:07,17,15,0.05361996218562126,0.7288421988487244,0.9809975028038025
+757,"Announcing our Full, Portable Solidity Debugger | Truffle Suite",701,80pjzk,ethereum,http://truffleframework.com/blog/announcing-full-portable-solidity-debugger,30,,2018-02-27 20:00:53,28,5,0.69146502198595,0.9973914623260498,0.9809975028038025
+389,JP Morgan Chase: Cryptocurrencies Pose A Risk To Our Business Model,1137,80w3ik,ethereum,https://www.btcnn.com/jp-morgan-chase-cryptocurrencies-pose-risk-business-model/,86,,2018-02-28 13:40:27,32,46,-0.18040650548079076,-0.9982935786247253,0.9809975028038025
 285,WARNING! SCAM ICO!! Othor.org list Vitalik as a team member. DO NOT SEND FUNDS TO OTHOR.ORG STAY SAFE,1381,7nvigr,ethereum,https://www.reddit.com/r/ethereum/comments/7nvigr/warning_scam_ico_othororg_list_vitalik_as_a_team/,88,"I noticed this ICO pop up on a couple of my social media feeds so went and had a look, mainly because they are lauding Vitalik Buterin as a team member...
 
 The website to be fair is half decent and could reel in some unwitting newbies but i also remember Vitalik stating he was distancing himself from any new projects going forward so i was skeptical.. 
@@ -2024,17 +2024,17 @@ https://www.othor.org
 
 https://www.youtube.com/watch?time_continue=84&v=FwmIHbhOlB4
 
-https://medium.com/@othororg/ico-alert-report-othor-e8c6bae545c4",2018-03-01 15:57:51,0,0,0.0,0.0,0.0
-178,Brisbane Airport to Accept Payments in Ethereum,1784,7v0807,ethereum,http://bitguru.co.uk/brisbane-airport-to-accept-cryptocurrency-payments/,24,,2018-03-02 16:19:33,0,0,0.0,0.0,0.0
-313,Vitalik Buterin Calling Craig Wright a Fraud in Public,1326,89cjal,ethereum,https://twitter.com/yuzushioh/status/981103761702641664,209,,2018-03-04 11:04:07,0,0,0.0,0.0,0.0
-778,"Thailand gives a green light to ""cryptocurrency"" ETH and six other digital assets",679,8vq3xp,ethereum,https://www.bloomberg.com/view/articles/2018-07-01/thailand-leads-in-crypto-by-skipping-the-big-debate,66,,2018-03-07 06:53:30,0,0,0.0,0.0,0.0
-893,"I’m home, bois.",608,9tx1dr,ethereum,https://i.redd.it/0tvholip56w11.jpg,6,,2018-03-11 19:42:33,0,0,0.0,0.0,0.0
-198,Fantastic Read To Learn The Ins and Outs of Blockchain. First chapter is written by Vitalik. Highly Recommend,1689,84f9po,ethereum,https://i.redd.it/25a7ujbulrl01.jpg,86,,2018-03-14 17:35:50,0,0,0.0,0.0,0.0
-492,South Korea To Reverse Ban on ICOs,950,84msjx,ethereum,https://www.btcnn.com/south-korea-to-reverse-ban-on-icos/,49,,2018-03-15 14:20:17,0,0,0.0,0.0,0.0
-812,"We built a DApp, an Ethereum address book with private chat. No need for ICO : )",663,85hncy,ethereum,https://keymesh.io,114,,2018-03-19 07:15:08,0,0,0.0,0.0,0.0
-170,US Congress Releases Extraordinary Report Praising Cryptocurrency and Blockchain Technology,1825,85lz4a,ethereum,https://dailyhodl.com/2018/03/19/us-congress-releases-extraordinary-report-praising-cryptocurrency-and-blockchain-technology/,49,,2018-03-19 18:52:56,0,0,0.0,0.0,0.0
-920,NASA to link Etherum blockchain technology with their deep space network,599,85wajh,ethereum,https://www.theglobalmail.org/cryptocurrency-blockchain-space-nasa/,40,,2018-03-20 20:54:23,0,0,0.0,0.0,0.0
-505,"IBM's 10ç tiny computer is blockchain ready. Due to this low price, it means anything could be tied to the blockchain, even the food you buy or the clothes you wear.",936,86a1gn,ethereum,https://www.engadget.com/2018/03/19/ibm-blockchain-salt-sized-computer/,143,,2018-03-22 08:48:47,0,0,0.0,0.0,0.0
+https://medium.com/@othororg/ico-alert-report-othor-e8c6bae545c4",2018-03-01 15:57:51,32,42,-0.11465524257840337,-0.9984765648841858,0.9649788737297058
+178,Brisbane Airport to Accept Payments in Ethereum,1784,7v0807,ethereum,http://bitguru.co.uk/brisbane-airport-to-accept-cryptocurrency-payments/,24,,2018-03-02 16:19:33,16,6,0.44289673187515954,0.9904020428657532,0.9809975028038025
+313,Vitalik Buterin Calling Craig Wright a Fraud in Public,1326,89cjal,ethereum,https://twitter.com/yuzushioh/status/981103761702641664,209,,2018-03-04 11:04:07,107,96,0.043110441985388694,-0.9987888932228088,0.9809975028038025
+778,"Thailand gives a green light to ""cryptocurrency"" ETH and six other digital assets",679,8vq3xp,ethereum,https://www.bloomberg.com/view/articles/2018-07-01/thailand-leads-in-crypto-by-skipping-the-big-debate,66,,2018-03-07 06:53:30,18,19,-0.0030524988432188292,0.9949179887771606,0.9809975028038025
+893,"I’m home, bois.",608,9tx1dr,ethereum,https://i.redd.it/0tvholip56w11.jpg,6,,2018-03-11 19:42:33,4,2,0.40770893295605976,0.9864869117736816,0.9809975028038025
+198,Fantastic Read To Learn The Ins and Outs of Blockchain. First chapter is written by Vitalik. Highly Recommend,1689,84f9po,ethereum,https://i.redd.it/25a7ujbulrl01.jpg,86,,2018-03-14 17:35:50,55,22,0.41192363531558546,0.9989522695541382,0.9809975028038025
+492,South Korea To Reverse Ban on ICOs,950,84msjx,ethereum,https://www.btcnn.com/south-korea-to-reverse-ban-on-icos/,49,,2018-03-15 14:20:17,17,25,-0.19731279072307406,-0.993212103843689,0.9809975028038025
+812,"We built a DApp, an Ethereum address book with private chat. No need for ICO : )",663,85hncy,ethereum,https://keymesh.io,114,,2018-03-19 07:15:08,83,27,0.4988009284843098,0.9929242134094238,0.9809975028038025
+170,US Congress Releases Extraordinary Report Praising Cryptocurrency and Blockchain Technology,1825,85lz4a,ethereum,https://dailyhodl.com/2018/03/19/us-congress-releases-extraordinary-report-praising-cryptocurrency-and-blockchain-technology/,49,,2018-03-19 18:52:56,19,24,-0.07530748705531276,0.9980408549308777,0.9809975028038025
+920,NASA to link Etherum blockchain technology with their deep space network,599,85wajh,ethereum,https://www.theglobalmail.org/cryptocurrency-blockchain-space-nasa/,40,,2018-03-20 20:54:23,22,15,0.18548368279998367,0.9973853230476379,0.9809975028038025
+505,"IBM's 10ç tiny computer is blockchain ready. Due to this low price, it means anything could be tied to the blockchain, even the food you buy or the clothes you wear.",936,86a1gn,ethereum,https://www.engadget.com/2018/03/19/ibm-blockchain-salt-sized-computer/,143,,2018-03-22 08:48:47,73,69,0.023142206836754168,0.9762152433395386,0.9809975028038025
 387,"ICOs are an illusion of progress. They produce tokens we don't need, incentivize marketing and speculation over development, and neglect end-user utility.",1131,86i8c7,ethereum,https://www.reddit.com/r/ethereum/comments/86i8c7/icos_are_an_illusion_of_progress_they_produce/,256,"ICOs incentivize developers to increase coin value, but that's not the same thing as producing useful tools or effective dapps. Thus, the coins keep coming, but they generally don't add any real utility.
 
 MakerDAO ~~and EtherDelta are~~ is the only project I can think of that provide real use-cases *today* and used an ICO to get there. When I asked the community for more examples, [the response was not encouraging](https://www.reddit.com/r/ethereum/comments/80bvc0/what_are_some_useful_dapps_that_work_today_are/).
@@ -2051,13 +2051,13 @@ How many ""game coin"" ICOs have we seen? And yet it was CryptoKitties alone tha
 
 Even better: none of these products require the user to go buy some shit coin on some random exchange they've never heard of. They just need ether and MetaMask, and they've got virtual kitties. Boom.
 
-ICOs are not effective vehicles for innovation, and don't deserve the focus we've been giving them. This argument can be made historically, it can be made game-theoretically, and it can be made simply by comparing the rate of ICOs (astonishing) with the rate of utility growth they bring (paltry).",2018-03-23 05:11:15,0,0,0.0,0.0,0.0
-641,Blockchain bill passes: Smart Contracts Now Recognized Under Tennessee Law,797,86owuw,ethereum,https://www.coindesk.com/blockchain-bill-becomes-law-tennessee/,18,,2018-03-23 22:54:46,0,0,0.0,0.0,0.0
-643,"First completed Game on EthernalGo.com !!! Winners were paid over 0.6 ETH, congrats!",790,86u379,ethereum,https://i.redd.it/qhtdodw4mqn01.png,84,,2018-03-24 16:25:25,0,0,0.0,0.0,0.0
-899,US CLOUD Act Gives Government Access to Private User Data,607,872pr5,ethereum,https://the-blockchain-journal.com/2018/03/25/us-cloud-act-gives-government-access-to-private-user-data/,73,,2018-03-25 18:42:40,0,0,0.0,0.0,0.0
-373,Adding ERC20 Support to Coinbase,1170,87bq28,ethereum,https://blog.coinbase.com/adding-erc20-support-to-coinbase-fe9cba6782b,156,,2018-03-26 19:04:08,0,0,0.0,0.0,0.0
-457,Would you support a hard fork that obsceletes ETH ASICs?,1001,87ucsk,ethereum,https://twitter.com/VladZamfir/status/979060233430552576,441,,2018-03-28 18:36:34,0,0,0.0,0.0,0.0
-476,"WTF!?! Mailchimp is closing ""Week in Ethereum"" account because the newsletter is about blockchains.",975,889yfl,ethereum,https://twitter.com/evan_van_ness/status/979485548476710912?s=09,119,,2018-03-30 12:26:53,0,0,0.0,0.0,0.0
+ICOs are not effective vehicles for innovation, and don't deserve the focus we've been giving them. This argument can be made historically, it can be made game-theoretically, and it can be made simply by comparing the rate of ICOs (astonishing) with the rate of utility growth they bring (paltry).",2018-03-23 05:11:15,138,101,0.15491403246524443,-0.9120346903800964,-0.9853264093399048
+641,Blockchain bill passes: Smart Contracts Now Recognized Under Tennessee Law,797,86owuw,ethereum,https://www.coindesk.com/blockchain-bill-becomes-law-tennessee/,18,,2018-03-23 22:54:46,7,13,-0.2851509988307953,0.9951169490814209,0.9809975028038025
+643,"First completed Game on EthernalGo.com !!! Winners were paid over 0.6 ETH, congrats!",790,86u379,ethereum,https://i.redd.it/qhtdodw4mqn01.png,84,,2018-03-24 16:25:25,56,27,0.3522932227835598,0.9985020160675049,0.9809975028038025
+899,US CLOUD Act Gives Government Access to Private User Data,607,872pr5,ethereum,https://the-blockchain-journal.com/2018/03/25/us-cloud-act-gives-government-access-to-private-user-data/,73,,2018-03-25 18:42:40,22,47,-0.35382363761680713,0.8426429033279419,0.9809975028038025
+373,Adding ERC20 Support to Coinbase,1170,87bq28,ethereum,https://blog.coinbase.com/adding-erc20-support-to-coinbase-fe9cba6782b,156,,2018-03-26 19:04:08,113,48,0.39749178753136105,0.9981946349143982,0.9809975028038025
+457,Would you support a hard fork that obsceletes ETH ASICs?,1001,87ucsk,ethereum,https://twitter.com/VladZamfir/status/979060233430552576,441,,2018-03-28 18:36:34,180,245,-0.14042117899539425,0.9939915537834167,0.9809975028038025
+476,"WTF!?! Mailchimp is closing ""Week in Ethereum"" account because the newsletter is about blockchains.",975,889yfl,ethereum,https://twitter.com/evan_van_ness/status/979485548476710912?s=09,119,,2018-03-30 12:26:53,36,77,-0.35665497157426007,-0.9797801375389099,0.9809975028038025
 621,Are you in Favour Of ‘Hard Fork’ to Resist ASIC Miners?,822,88jduy,ethereum,https://www.reddit.com/r/ethereum/comments/88jduy/are_you_in_favour_of_hard_fork_to_resist_asic/,528,"Yes
 
 
@@ -2069,19 +2069,19 @@ Maybe / it depends/ needs input from devs
 
 I don't know
 
-",2018-03-31 15:33:33,0,0,0.0,0.0,0.0
-133,"Mark Zuckerberg ""Centralization vs Decentralization""",1988,7o4t6u,ethereum,https://i.redd.it/3gqe14uuc3801.png,439,,2018-04-01 18:09:25,0,0,0.0,0.0,0.0
-805,I just created a website that list more than 120 site that accept cryptocurrency as a payment method,671,7v7mnk,ethereum,http://shopincrypto.com/,110,,2018-04-02 16:21:48,0,0,0.0,0.0,0.0
-875,Bloom's blockchain credit app sees record signups after more bad news from Equifax,624,81y30v,ethereum,https://venturebeat.com/2018/03/02/blooms-blockchain-credit-app-sees-record-signups-after-more-bad-news-from-equifax/,69,,2018-04-03 14:55:13,0,0,0.0,0.0,0.0
-580,"India is more interested in Ethereum than Bitcoin, Jana study shows",866,89m7go,ethereum,https://thehodl.life/india-is-more-interested-in-ethereum-than-bitcoin-jana-study-shows/,70,,2018-04-04 04:07:52,0,0,0.0,0.0,0.0
-498,"With all these banks hating on crypto, I thought i'd show USAA's embracing of crypto through their online tools.",941,8h1hpe,ethereum,https://i.redd.it/9q2clc92jvv01.png,128,,2018-04-05 18:33:01,0,0,0.0,0.0,0.0
-672,Ethereum Will Be the Backbone of the New Internet,767,8oge08,ethereum,https://medium.com/loom-network/ethereum-will-be-the-backbone-of-the-new-internet-88718e08124f,131,,2018-04-06 11:02:55,0,0,0.0,0.0,0.0
-721,Microsoft buys GitHub for $7.5 billion.,728,8oiagk,ethereum,https://www.techradar.com/news/microsoft-reportedly-acquires-github-the-worlds-largest-source-code-platform,127,,2018-04-06 15:45:08,0,0,0.0,0.0,0.0
-690,Link discovered Ethereum long ago...,748,9lfjqc,ethereum,https://v.redd.it/gppy7azr98q11,30,,2018-04-10 20:24:16,0,0,0.0,0.0,0.0
-220,Amazing how people suddenly realize they don’t own their data on Facebook. Let’s see how they react when they find out they dont own the money in their bank accounts either!,1613,8caltb,ethereum,https://twitter.com/LeoAW/status/984726735563313152,327,,2018-04-14 21:27:10,0,0,0.0,0.0,0.0
-245,"We Met The Founder Of Ethereum, VICE on HBO",1531,8dqpec,ethereum,https://youtu.be/eSPaNVYEWn8,180,,2018-04-20 20:24:08,0,0,0.0,0.0,0.0
-653,Best Bday Cake Ever.,781,8dwwby,ethereum,https://i.imgur.com/ED4vhfP.jpg,59,,2018-04-21 16:42:25,0,0,0.0,0.0,0.0
-533,Amazon Web Services Introduces Ethereum and Hyperledger Blockchain Templates,902,8eaflq,ethereum,https://aws.amazon.com/about-aws/whats-new/2018/04/introducing-aws-blockchain-templates/,67,,2018-04-23 10:26:13,0,0,0.0,0.0,0.0
+",2018-03-31 15:33:33,209,230,-0.046852074750192076,-0.9917142987251282,-0.8223103284835815
+133,"Mark Zuckerberg ""Centralization vs Decentralization""",1988,7o4t6u,ethereum,https://i.redd.it/3gqe14uuc3801.png,439,,2018-04-01 18:09:25,137,271,-0.32193027918829636,-0.7953433990478516,0.9809975028038025
+805,I just created a website that list more than 120 site that accept cryptocurrency as a payment method,671,7v7mnk,ethereum,http://shopincrypto.com/,110,,2018-04-02 16:21:48,65,34,0.3143521685792942,0.9958990216255188,0.9809975028038025
+875,Bloom's blockchain credit app sees record signups after more bad news from Equifax,624,81y30v,ethereum,https://venturebeat.com/2018/03/02/blooms-blockchain-credit-app-sees-record-signups-after-more-bad-news-from-equifax/,69,,2018-04-03 14:55:13,40,32,0.10072951681084102,0.9941011071205139,0.9809975028038025
+580,"India is more interested in Ethereum than Bitcoin, Jana study shows",866,89m7go,ethereum,https://thehodl.life/india-is-more-interested-in-ethereum-than-bitcoin-jana-study-shows/,70,,2018-04-04 04:07:52,39,24,0.23972648855239626,0.9975851774215698,0.9809975028038025
+498,"With all these banks hating on crypto, I thought i'd show USAA's embracing of crypto through their online tools.",941,8h1hpe,ethereum,https://i.redd.it/9q2clc92jvv01.png,128,,2018-04-05 18:33:01,79,46,0.2660110249519348,-0.9906927943229675,0.9809975028038025
+672,Ethereum Will Be the Backbone of the New Internet,767,8oge08,ethereum,https://medium.com/loom-network/ethereum-will-be-the-backbone-of-the-new-internet-88718e08124f,131,,2018-04-06 11:02:55,63,58,0.05707147298765577,0.9975993037223816,0.9809975028038025
+721,Microsoft buys GitHub for $7.5 billion.,728,8oiagk,ethereum,https://www.techradar.com/news/microsoft-reportedly-acquires-github-the-worlds-largest-source-code-platform,127,,2018-04-06 15:45:08,72,55,0.11742084045109787,0.9781064987182617,0.9809975028038025
+690,Link discovered Ethereum long ago...,748,9lfjqc,ethereum,https://v.redd.it/gppy7azr98q11,30,,2018-04-10 20:24:16,19,4,0.7026402872541676,0.9946900606155396,0.9809975028038025
+220,Amazing how people suddenly realize they don’t own their data on Facebook. Let’s see how they react when they find out they dont own the money in their bank accounts either!,1613,8caltb,ethereum,https://twitter.com/LeoAW/status/984726735563313152,327,,2018-04-14 21:27:10,96,234,-0.4109631434986086,0.9928344488143921,0.9809975028038025
+245,"We Met The Founder Of Ethereum, VICE on HBO",1531,8dqpec,ethereum,https://youtu.be/eSPaNVYEWn8,180,,2018-04-20 20:24:08,96,85,0.053624436670904004,0.9967058300971985,0.9809975028038025
+653,Best Bday Cake Ever.,781,8dwwby,ethereum,https://i.imgur.com/ED4vhfP.jpg,59,,2018-04-21 16:42:25,45,11,0.5792992253388677,0.9985311031341553,0.9809975028038025
+533,Amazon Web Services Introduces Ethereum and Hyperledger Blockchain Templates,902,8eaflq,ethereum,https://aws.amazon.com/about-aws/whats-new/2018/04/introducing-aws-blockchain-templates/,67,,2018-04-23 10:26:13,39,26,0.21013882435285128,0.9974368810653687,0.9809975028038025
 208,[WARNING] MyEtherWallet.com highjacked on Google Public DNS,1648,8ek86t,ethereum,https://www.reddit.com/r/ethereum/comments/8ek86t/warning_myetherwalletcom_highjacked_on_google/,584,"Do not use myetherwallet.com if you're using Google Public DNS (8.8.8.8 / 8.8.4.4) at this moment, it seems these DNS servers are resolving the domain to a bad server that CAN steal your keys!
 
 Invalid certificate: https://imgur.com/a/bh6p4DQ
@@ -2141,9 +2141,9 @@ Anyone that got their keys into this has had their funds transferred to http://e
 Edit2:
 Google Public DNS is now resolving the correct ips. Keep in mind the ttl of the old records was some 9000 seconds, we can expect some ISP's to cache that for their clients.
 
-Again, please make sure the SSL Connection is always green when you interact with any website.",2018-04-24 13:04:03,0,0,0.0,0.0,0.0
-461,My wife made me an Ethereum Lamp 💡😍,994,8epgww,ethereum,https://i.redd.it/dg47zdvnayt01.jpg,126,,2018-04-25 00:38:12,0,0,0.0,0.0,0.0
-355,Proof of Stake is Solved,1210,8f63la,ethereum,https://twitter.com/IOHK_Charles/status/989540452322836480,287,,2018-04-26 20:56:38,0,0,0.0,0.0,0.0
+Again, please make sure the SSL Connection is always green when you interact with any website.",2018-04-24 13:04:03,161,251,-0.21236965455669418,-0.998257577419281,-0.9233939817973545
+461,My wife made me an Ethereum Lamp 💡😍,994,8epgww,ethereum,https://i.redd.it/dg47zdvnayt01.jpg,126,,2018-04-25 00:38:12,83,27,0.519367285750129,0.9850173592567444,0.9809975028038025
+355,Proof of Stake is Solved,1210,8f63la,ethereum,https://twitter.com/IOHK_Charles/status/989540452322836480,287,,2018-04-26 20:56:38,134,138,-0.022695708070315557,0.9914067983627319,0.9809975028038025
 834,Rep Sherman tries to ban crypto - top campaign contributor at risk from crypto,652,8fdxxp,ethereum,https://www.reddit.com/r/ethereum/comments/8fdxxp/rep_sherman_tries_to_ban_crypto_top_campaign/,75,"Sadly, more systemic corruption on display... Yesterday Rep Sherman (D-CA) proposed to ban crypto currencies. Rep Sherman's top campaign contributor? Allied Wallet, an online payment service at huge risk from Crypto Currency Adoption
 
 See link: https://www.opensecrets.org/members-of-congress/summary?cid=N00006897
@@ -2151,27 +2151,27 @@ See link: https://www.opensecrets.org/members-of-congress/summary?cid=N00006897
 If you live in California, please vote this swine out of office. Feel free to let him know you see him and what he's up to at: https://twitter.com/BradSherman
 
 Summary of Congress Oversight comments:
-https://www.coindesk.com/sec-official-defends-balanced-ico-oversight-congress/",2018-04-27 18:33:55,0,0,0.0,0.0,0.0
-444,Vitalik Teases Sharding Release on Twitter,1027,8g1q55,ethereum,https://twitter.com/vitalikbuterin/status/991021062811930624?s=21,164,,2018-04-30 18:33:37,0,0,0.0,0.0,0.0
-616,"Ethereum Developer: How To Become One, Beginners Guide",820,826abh,ethereum,https://blockgeeks.com/guides/ethereum-developer/,107,,2018-05-03 14:29:09,0,0,0.0,0.0,0.0
-173,"Vitalik ""Not giving away selfies"" Buterin",1814,8h88wu,ethereum,https://i.imgur.com/3Os2PO6.jpg,275,,2018-05-05 15:34:16,0,0,0.0,0.0,0.0
-628,"Consensus starts today. Vitalik, Charles Hoskinson and Jun Hasegawa lead the way on the boycott",815,8jbvsz,ethereum,https://i.imgur.com/HI9Pw14.jpg,243,,2018-05-14 12:35:13,0,0,0.0,0.0,0.0
-132,Steve Wozniak Considers Ethereum to Become as Influential as Apple,1995,8kctoa,ethereum,https://www.wetalkcoins.com/news/steve-wozniak-considers-ethereum-to-become-as-influential-as-apple,194,,2018-05-18 12:36:17,0,0,0.0,0.0,0.0
-673,Coinbase Aims to Obtain Banking Licenses,760,8km85h,ethereum,https://bitcoinist.com/coinbase-aims-obtain-banking-licenses/,97,,2018-05-19 16:14:14,0,0,0.0,0.0,0.0
-289,"Please stop posting pictures of things that look like the ethereum logo. Memes and irrelevant content have ruined r/bitcoin, do not let this happen with r/ethereum",1379,8lhpa6,ethereum,https://www.reddit.com/r/ethereum/comments/8lhpa6/please_stop_posting_pictures_of_things_that_look/,162,,2018-05-23 08:16:48,0,0,0.0,0.0,0.0
-358,Beginners’ Guide to Ethereum,1203,8lyqom,ethereum,https://i.redd.it/nz70geok9xz01.png,68,,2018-05-25 03:37:33,0,0,0.0,0.0,0.0
-816,Why we need transparent gov funding. $443m awarded to a sham foundation to line politician pockets,664,8m9ax7,ethereum,https://www.thesaturdaypaper.com.au/news/environment/2018/05/26/who-the-group-awarded-443m-save-the-reef/15272568006280,36,,2018-05-26 10:25:55,0,0,0.0,0.0,0.0
-606,"Chinese Internet security giant 360 has found ""a series of epic vulnerabilities"" in the EOS platform.",834,8mwn1g,ethereum,https://twitter.com/cnLedger/status/1001335269180653568,253,,2018-05-29 05:33:43,0,0,0.0,0.0,0.0
-843,Crypto Millionaire Matthew Mellon Dies Leaving More than $500 Million Lost - BTCNN,649,8nkl75,ethereum,https://www.btcnn.com/crypto-millionaire-matthew-mellon-dies-leaving-more-than-500-million-lost/,307,,2018-05-31 18:02:07,0,0,0.0,0.0,0.0
-740,Everyone is fucked with gas right now so here's a refresher course: what is gas?,714,7oho8t,ethereum,https://www.reddit.com/r/MyEtherWallet/comments/7oho6p/everyone_is_fucked_with_gas_right_now_so_heres_a/,93,,2018-06-01 06:38:22,0,0,0.0,0.0,0.0
-290,CFTC to Take 'Do No Harm' Approach on Crypto Regulation,1372,7voi55,ethereum,https://www.google.com.au/amp/s/www.coindesk.com/cftc-to-take-do-no-harm-approach-on-crypto-regulation/amp/,70,,2018-06-02 16:31:20,0,0,0.0,0.0,0.0
-336,Vitalik says hey hey heyyy! ❤️,1255,82frsc,ethereum,https://v.redd.it/sbsb73uet5k01,133,,2018-06-03 15:14:45,0,0,0.0,0.0,0.0
-698,$AVAGE reply by Vitalik,741,8a8d2d,ethereum,https://twitter.com/VitalikButerin/status/982194680258486273?s=19,101,,2018-06-04 10:16:01,0,0,0.0,0.0,0.0
-588,"Episode 5 of ""explained"" on Netflix is about crypto",851,8p0n3s,ethereum,https://www.netflix.com/title/80216752,147,,2018-06-06 13:33:30,0,0,0.0,0.0,0.0
-582,Vitalik Buterin: “I definitely hope centralized exchanges go burn in hell as much as possible”,855,8wkej3,ethereum,https://techcrunch.com/2018/07/06/vitalik-buterin-i-definitely-hope-centralized-exchanges-go-burn-in-hell-as-much-as-possible/?sr_share=facebook&utm_source=tcfbpage,129,,2018-06-07 14:14:30,0,0,0.0,0.0,0.0
-521,"Fucking hell Coindesk, check the shitty ads you host. No wonder Vitalik boycotted consensus",913,8qzlel,ethereum,https://i.imgur.com/qFwIpCo.jpg,58,,2018-06-14 06:20:16,0,0,0.0,0.0,0.0
-363,Ether is not a security!,1188,8r3a5s,ethereum,https://www.reddit.com/r/ethereum/comments/8r3a5s/ether_is_not_a_security/,111,Has just been announced by the SEC at the Yahoo Finance All Markets Summit !!,2018-06-14 16:35:43,0,0,0.0,0.0,0.0
-864,"Ethereum is Gaining 50,000 Developers per Month, King of Dapps",629,8rybph,ethereum,https://www.newsbtc.com/2018/06/18/ethereum-gaining-50000-developers-per-month-king-dapps/,107,,2018-06-18 10:01:08,0,0,0.0,0.0,0.0
+https://www.coindesk.com/sec-official-defends-balanced-ico-oversight-congress/",2018-04-27 18:33:55,29,45,-0.24187275122951818,-0.9925810098648071,0.8318562805652618
+444,Vitalik Teases Sharding Release on Twitter,1027,8g1q55,ethereum,https://twitter.com/vitalikbuterin/status/991021062811930624?s=21,164,,2018-04-30 18:33:37,99,53,0.2917427706875299,-0.9224380254745483,0.9809975028038025
+616,"Ethereum Developer: How To Become One, Beginners Guide",820,826abh,ethereum,https://blockgeeks.com/guides/ethereum-developer/,107,,2018-05-03 14:29:09,69,33,0.36255184517187233,0.9928880333900452,0.9809975028038025
+173,"Vitalik ""Not giving away selfies"" Buterin",1814,8h88wu,ethereum,https://i.imgur.com/3Os2PO6.jpg,275,,2018-05-05 15:34:16,104,161,-0.21363764146588884,-0.9653158187866211,0.9809975028038025
+628,"Consensus starts today. Vitalik, Charles Hoskinson and Jun Hasegawa lead the way on the boycott",815,8jbvsz,ethereum,https://i.imgur.com/HI9Pw14.jpg,243,,2018-05-14 12:35:13,93,142,-0.22158238481968007,0.902682363986969,0.9809975028038025
+132,Steve Wozniak Considers Ethereum to Become as Influential as Apple,1995,8kctoa,ethereum,https://www.wetalkcoins.com/news/steve-wozniak-considers-ethereum-to-become-as-influential-as-apple,194,,2018-05-18 12:36:17,95,85,0.04755912820498149,0.9975702166557312,0.9809975028038025
+673,Coinbase Aims to Obtain Banking Licenses,760,8km85h,ethereum,https://bitcoinist.com/coinbase-aims-obtain-banking-licenses/,97,,2018-05-19 16:14:14,32,62,-0.2985308176659523,0.9949418902397156,0.9809975028038025
+289,"Please stop posting pictures of things that look like the ethereum logo. Memes and irrelevant content have ruined r/bitcoin, do not let this happen with r/ethereum",1379,8lhpa6,ethereum,https://www.reddit.com/r/ethereum/comments/8lhpa6/please_stop_posting_pictures_of_things_that_look/,162,,2018-05-23 08:16:48,46,119,-0.42674209493579285,-0.9984831213951111,0.9809975028038025
+358,Beginners’ Guide to Ethereum,1203,8lyqom,ethereum,https://i.redd.it/nz70geok9xz01.png,68,,2018-05-25 03:37:33,37,26,0.20186090280139257,0.9943059086799622,0.9809975028038025
+816,Why we need transparent gov funding. $443m awarded to a sham foundation to line politician pockets,664,8m9ax7,ethereum,https://www.thesaturdaypaper.com.au/news/environment/2018/05/26/who-the-group-awarded-443m-save-the-reef/15272568006280,36,,2018-05-26 10:25:55,16,16,-0.00954052247107029,-0.9961220622062683,0.9809975028038025
+606,"Chinese Internet security giant 360 has found ""a series of epic vulnerabilities"" in the EOS platform.",834,8mwn1g,ethereum,https://twitter.com/cnLedger/status/1001335269180653568,253,,2018-05-29 05:33:43,89,128,-0.17567847511186027,-0.9903995394706726,0.9809975028038025
+843,Crypto Millionaire Matthew Mellon Dies Leaving More than $500 Million Lost - BTCNN,649,8nkl75,ethereum,https://www.btcnn.com/crypto-millionaire-matthew-mellon-dies-leaving-more-than-500-million-lost/,307,,2018-05-31 18:02:07,97,199,-0.34409339001049866,-0.9975722432136536,0.9809975028038025
+740,Everyone is fucked with gas right now so here's a refresher course: what is gas?,714,7oho8t,ethereum,https://www.reddit.com/r/MyEtherWallet/comments/7oho6p/everyone_is_fucked_with_gas_right_now_so_heres_a/,93,,2018-06-01 06:38:22,40,54,-0.13265284452032536,-0.9971298575401306,0.9809975028038025
+290,CFTC to Take 'Do No Harm' Approach on Crypto Regulation,1372,7voi55,ethereum,https://www.google.com.au/amp/s/www.coindesk.com/cftc-to-take-do-no-harm-approach-on-crypto-regulation/amp/,70,,2018-06-02 16:31:20,17,46,-0.45237322837587385,-0.7074165940284729,0.9809975028038025
+336,Vitalik says hey hey heyyy! ❤️,1255,82frsc,ethereum,https://v.redd.it/sbsb73uet5k01,133,,2018-06-03 15:14:45,82,53,0.20901183817121718,0.9911820888519287,0.9809975028038025
+698,$AVAGE reply by Vitalik,741,8a8d2d,ethereum,https://twitter.com/VitalikButerin/status/982194680258486273?s=19,101,,2018-06-04 10:16:01,33,69,-0.3555423038847306,0.9467558264732361,0.9809975028038025
+588,"Episode 5 of ""explained"" on Netflix is about crypto",851,8p0n3s,ethereum,https://www.netflix.com/title/80216752,147,,2018-06-06 13:33:30,46,85,-0.29304671014538247,0.9823811650276184,0.9809975028038025
+582,Vitalik Buterin: “I definitely hope centralized exchanges go burn in hell as much as possible”,855,8wkej3,ethereum,https://techcrunch.com/2018/07/06/vitalik-buterin-i-definitely-hope-centralized-exchanges-go-burn-in-hell-as-much-as-possible/?sr_share=facebook&utm_source=tcfbpage,129,,2018-06-07 14:14:30,54,69,-0.11547921004334116,0.8012380003929138,0.9809975028038025
+521,"Fucking hell Coindesk, check the shitty ads you host. No wonder Vitalik boycotted consensus",913,8qzlel,ethereum,https://i.imgur.com/qFwIpCo.jpg,58,,2018-06-14 06:20:16,19,41,-0.36179242730140687,-0.9981619715690613,0.9809975028038025
+363,Ether is not a security!,1188,8r3a5s,ethereum,https://www.reddit.com/r/ethereum/comments/8r3a5s/ether_is_not_a_security/,111,Has just been announced by the SEC at the Yahoo Finance All Markets Summit !!,2018-06-14 16:35:43,51,42,0.0866304821865533,0.9976733326911926,0.9976728558540344
+864,"Ethereum is Gaining 50,000 Developers per Month, King of Dapps",629,8rybph,ethereum,https://www.newsbtc.com/2018/06/18/ethereum-gaining-50000-developers-per-month-king-dapps/,107,,2018-06-18 10:01:08,57,47,0.06502301360552128,0.9976038336753845,0.9809975028038025
 934,"Creating useful dapps is easier than people think (way easier than CryptoZombies, for example). Starting next week, I'll show this with a series of live seminars, demonstrating the design and development of several simple dapps, start to finish.",587,8smqe0,ethereum,https://www.reddit.com/r/ethereum/comments/8smqe0/creating_useful_dapps_is_easier_than_people_think/,53,"Hey all! I'm the guy who put together and demonstrated [Toastycoin and Burnable Payments](http://www.toastycoin.com). After Toastycoin, I scratched my head a lot over how to scale up the research and development of more cryptoeconomic primitives.
 
 **This has lead me to start a free, virtual academy, focused on the rapid development of smart contracts and their interfaces.** Seminars start next Monday, and a schedule will be announced later this week. Seminars will be archived publicly.
@@ -2229,9 +2229,9 @@ To become accredited, one must independently make significant progress on a pre-
 - If you'd like a chance to attend the seminars live, respond to my comment below asking for seminar timing preferences. We'll aim for a schedule that allows as many people as possible to attend some of the seminars.
 - [sign up for the mailing list](https://visitor.r20.constantcontact.com/d.jsp?llr=cfjazc6ab&p=oi&m=1130743473314&sit=ke8rgopmb&f=30cfc2bd-aba1-4875-b771-77dd294e1eaa), and expect to see a schedule with seminar titles and details mailed out later this week!
 - Feel free to check out our slack ([invite here](https://cp-slack-invite.herokuapp.com/)) to say hi or get a peek at the kinds of projects we'll focus on!
-- Keep an eye on [the website](http://cpacademy.io), which will be built up over the next few days.",2018-06-20 22:43:42,0,0,0.0,0.0,0.0
-652,"Apple Co-Founder Praises Ethereum (ETH), Says It Can Outlive the Hype",782,8uh8nk,ethereum,https://dailyhodl.com/2018/06/28/apple-co-founder-praises-ethereum-eth-says-it-can-outlive-the-hype/,44,,2018-06-28 07:52:06,0,0,0.0,0.0,0.0
-688,Bank of America Acknowledges Cryptocurrencies as a Threat to Their Business,753,8utyx0,ethereum,https://www.bitguru.co.uk/crypto-news/bank-of-america-acknowledges-cryptocurrencies-as-a-threat-to-their-business/,73,,2018-06-29 15:22:55,0,0,0.0,0.0,0.0
+- Keep an eye on [the website](http://cpacademy.io), which will be built up over the next few days.",2018-06-20 22:43:42,38,11,0.5576323064006105,0.998683512210846,-0.9742513050635656
+652,"Apple Co-Founder Praises Ethereum (ETH), Says It Can Outlive the Hype",782,8uh8nk,ethereum,https://dailyhodl.com/2018/06/28/apple-co-founder-praises-ethereum-eth-says-it-can-outlive-the-hype/,44,,2018-06-28 07:52:06,29,7,0.5995565387937758,0.9968705773353577,0.9809975028038025
+688,Bank of America Acknowledges Cryptocurrencies as a Threat to Their Business,753,8utyx0,ethereum,https://www.bitguru.co.uk/crypto-news/bank-of-america-acknowledges-cryptocurrencies-as-a-threat-to-their-business/,73,,2018-06-29 15:22:55,26,45,-0.2623420853010366,-0.996397852897644,0.9809975028038025
 748,Lost all my ETH. Help my understand how.,706,7op7cx,ethereum,https://www.reddit.com/r/ethereum/comments/7op7cx/lost_all_my_eth_help_my_understand_how/,369,"I recently created a wallet on MyEtherWallet.com in which I transferred some coins. Some of them I sent to Binance and Kucoin and some I intended to keep on the wallet. About 12h after the Kucoin  transfer someone transferred all the remaining coins in the my wallet to another wallet.
 
 Everytime I made a transaction I did it from my Android phone. The private key was kept in a 7zip    encrypted archive that was stored on my phone and a backup on a newly created Google Drive account.
@@ -2242,8 +2242,8 @@ Edit: It was a phishing job guys. I browse through my Google history and I disco
 The ether address of the thief has a lot of messages from the people that got robbed also. 
 Please be very careful everybody, you can lose a lot of money by a simple mistake.
 
-Thanks a lot to everybody for your help and sugestions.",2018-07-01 06:56:41,0,0,0.0,0.0,0.0
-869,South Korea’s Largest Banks Go Pro-Cryptocurrency as OmiseGo Secures Deal,628,8aettv,ethereum,https://www.ccn.com/south-koreas-largest-banks-are-pro-cryptocurrency-omisego-secures-deal/,6,,2018-07-04 01:33:51,0,0,0.0,0.0,0.0
+Thanks a lot to everybody for your help and sugestions.",2018-07-01 06:56:41,143,195,-0.1599593703916087,-0.9893254041671753,0.8824292719364166
+869,South Korea’s Largest Banks Go Pro-Cryptocurrency as OmiseGo Secures Deal,628,8aettv,ethereum,https://www.ccn.com/south-koreas-largest-banks-are-pro-cryptocurrency-omisego-secures-deal/,6,,2018-07-04 01:33:51,5,2,0.3986919011388506,0.9835582375526428,0.9809975028038025
 602,Manipulated ETH network gas prices look connected to EOS funded bot accounts in possible indication of corporate network attack.,834,8yvlis,ethereum,https://www.reddit.com/r/ethereum/comments/8yvlis/manipulated_eth_network_gas_prices_look_connected/,137,"X-Post from Team JUST discord (they make popular decentralized applications)
 
 EDUCATIONAL: Hey @everyone, we know gas prices are astoundingly high today. Let's have a bit of an adventure and find out why shall we?
@@ -2260,10 +2260,10 @@ most importantly on why is this being done? Let's see what one of the accounts f
 
 [(Lastly, they finished it with a fresh OC image of Vitalik in sunglasses that should exist if they don't already)](https://imgur.com/a/CzfUMXh)
 
-Credit: \[Team JUST discord\] (Developers of P3D and Fomo3D, the two highest volume decentralized games on ETH right now, so gas is hitting the community hard)",2018-07-14 19:04:25,0,0,0.0,0.0,0.0
-756,It's now clear EOS is behind Sybil attack on Ethereum that's why the gas price is almost 100 Gwei,700,8z2gor,ethereum,https://www.reddit.com/r/ethereum/comments/8z2gor/its_now_clear_eos_is_behind_sybil_attack_on/,338,"A few EOS Whales from china want to make Ethereum look inferior by financing shatcoins to clog the network. This wasn't their initial goal but after Fcoin started a voting process that was based on number of transactions the whales saw an opportunity! instead of improving their system and giving people what they promised they are attacking Ethereum to prove their point that EOS is an ""'ethereum killer"" what a bunch of twats!",2018-07-15 15:27:32,0,0,0.0,0.0,0.0
-536,"""If someone puts a gun to my head & tells me to write a hardfork patch, I will definitely write it. If I publish a patch to delete a bunch of accounts, how many people here would download & install the update & switch to that chain? I see few raised hands. This is called decentralization."" -Vitalik",894,8zyxj8,ethereum,https://youtu.be/SH-hr8AKkDM,240,,2018-07-18 20:06:58,0,0,0.0,0.0,0.0
-472,"""World Cup? Sorry I thought you said Ethereum, but now that you've mentioned it...""",977,90m801,ethereum,https://i.redd.it/cq7t1968u7b11.png,44,,2018-07-21 02:59:32,0,0,0.0,0.0,0.0
+Credit: \[Team JUST discord\] (Developers of P3D and Fomo3D, the two highest volume decentralized games on ETH right now, so gas is hitting the community hard)",2018-07-14 19:04:25,38,85,-0.3737044630011892,-0.999187171459198,-0.949063777923584
+756,It's now clear EOS is behind Sybil attack on Ethereum that's why the gas price is almost 100 Gwei,700,8z2gor,ethereum,https://www.reddit.com/r/ethereum/comments/8z2gor/its_now_clear_eos_is_behind_sybil_attack_on/,338,"A few EOS Whales from china want to make Ethereum look inferior by financing shatcoins to clog the network. This wasn't their initial goal but after Fcoin started a voting process that was based on number of transactions the whales saw an opportunity! instead of improving their system and giving people what they promised they are attacking Ethereum to prove their point that EOS is an ""'ethereum killer"" what a bunch of twats!",2018-07-15 15:27:32,128,170,-0.13893078617601587,-0.99289870262146,-0.992397129535675
+536,"""If someone puts a gun to my head & tells me to write a hardfork patch, I will definitely write it. If I publish a patch to delete a bunch of accounts, how many people here would download & install the update & switch to that chain? I see few raised hands. This is called decentralization."" -Vitalik",894,8zyxj8,ethereum,https://youtu.be/SH-hr8AKkDM,240,,2018-07-18 20:06:58,50,156,-0.49683697478285116,0.8972752094268799,0.9809975028038025
+472,"""World Cup? Sorry I thought you said Ethereum, but now that you've mentioned it...""",977,90m801,ethereum,https://i.redd.it/cq7t1968u7b11.png,44,,2018-07-21 02:59:32,31,13,0.3361188539049842,-0.9745041728019714,0.9809975028038025
 795,"How to PWN FoMo3D, a beginners guide",671,916xni,ethereum,https://www.reddit.com/r/ethereum/comments/916xni/how_to_pwn_fomo3d_a_beginners_guide/,169,"I found out about FoMo3D today and saw that it's an pyramid game holding an insane $12M stash currently. Looking through the code, it's multiple contracts totaling thousands of lines of code. Let's be honest, $12M inside thousands of lines of Solidity... that's asking for it.
 
 One thing that immediately caught my eye whilst looking through their code was:
@@ -2361,18 +2361,18 @@ And the team's reaction: yeah, we knew our 12M contract can be broken, no biggie
 
 [https://twitter.com/PoWH3D/status/1021380251258114049](https://twitter.com/PoWH3D/status/1021380251258114049)
 
-https://preview.redd.it/v4xlb6ga8pb11.png?width=1164&format=png&auto=webp&v=enabled&s=b0f64f7ef2e36d6c4f499d32ff8660eb179c0904",2018-07-23 13:11:07,0,0,0.0,0.0,0.0
-534,Brazil Analysing the Possibility to Process Petitions and Laws on Ethereum,900,7oxelg,ethereum,https://usethebitcoin.com/brazil-analysing-possibility-process-petitions-laws-ethereum/,26,,2018-08-01 09:17:07,0,0,0.0,0.0,0.0
-45,I just warranty deeded my house into an Ethereum smart contract. AMA,3221,7p155y,ethereum,https://i.imgur.com/CPy2vBf.jpg,483,,2018-08-01 19:51:22,0,0,0.0,0.0,0.0
-147,Singapore Will Not Ban Cryptocurrencies Says Deputy Prime Minister,1923,7w3xhd,ethereum,https://usethebitcoin.com/singapore-will-not-ban-cryptocurrencies-says-deputy-prime-minister/,63,,2018-08-02 10:32:03,0,0,0.0,0.0,0.0
-431,First US Real Estate Transaction In Blockchain Completed. Vermont is headed towards blockchain-recording of real estate transactions. Other states will follow... What's Next?,1036,82xjox,ethereum,https://www.zerohedge.com/news/2018-03-08/first-us-real-estate-transaction-blockchain-completed-whats-next,77,,2018-08-03 13:41:32,0,0,0.0,0.0,0.0
-702,"Casper v0.1 ""First Release"" - Casper work showing continuing progress!",739,8hw9nf,ethereum,https://github.com/ethereum/casper/releases/tag/v0.1.0,111,,2018-08-05 12:25:41,0,0,0.0,0.0,0.0
-667,"""The law deserves respect, but technological progress should not be bound by the limits of the regulator’s lawyerly imagination."" SEC Commissioner Peirce gave an incredible speech about tokens and regulation. Read it all:",762,8i0npt,ethereum,https://twitter.com/valkenburgh/status/993936519047077894,34,,2018-08-05 21:51:48,0,0,0.0,0.0,0.0
-544,A little particle logo animation I made for you guys,887,95my8z,ethereum,https://v.redd.it/9v58ac200we11,72,,2018-08-08 15:22:50,0,0,0.0,0.0,0.0
-335,Elon Musk wants to buy Ethereum 🤭🤔🤫,1256,9b1ixt,ethereum,https://i.redd.it/phz9atnopvi11.jpg,174,,2018-08-28 18:40:20,0,0,0.0,0.0,0.0
+https://preview.redd.it/v4xlb6ga8pb11.png?width=1164&format=png&auto=webp&v=enabled&s=b0f64f7ef2e36d6c4f499d32ff8660eb179c0904",2018-07-23 13:11:07,63,111,-0.26980592259045305,-0.7652496099472046,-0.9125369191169739
+534,Brazil Analysing the Possibility to Process Petitions and Laws on Ethereum,900,7oxelg,ethereum,https://usethebitcoin.com/brazil-analysing-possibility-process-petitions-laws-ethereum/,26,,2018-08-01 09:17:07,9,15,-0.23186182230710983,0.8646413683891296,0.9809975028038025
+45,I just warranty deeded my house into an Ethereum smart contract. AMA,3221,7p155y,ethereum,https://i.imgur.com/CPy2vBf.jpg,483,,2018-08-01 19:51:22,235,198,0.08431461474086066,0.9889538288116455,0.9809975028038025
+147,Singapore Will Not Ban Cryptocurrencies Says Deputy Prime Minister,1923,7w3xhd,ethereum,https://usethebitcoin.com/singapore-will-not-ban-cryptocurrencies-says-deputy-prime-minister/,63,,2018-08-02 10:32:03,20,27,-0.14116173094891488,-0.9895100593566895,0.9809975028038025
+431,First US Real Estate Transaction In Blockchain Completed. Vermont is headed towards blockchain-recording of real estate transactions. Other states will follow... What's Next?,1036,82xjox,ethereum,https://www.zerohedge.com/news/2018-03-08/first-us-real-estate-transaction-blockchain-completed-whats-next,77,,2018-08-03 13:41:32,35,43,-0.11099662612646054,0.9959738850593567,0.9809975028038025
+702,"Casper v0.1 ""First Release"" - Casper work showing continuing progress!",739,8hw9nf,ethereum,https://github.com/ethereum/casper/releases/tag/v0.1.0,111,,2018-08-05 12:25:41,51,66,-0.11674057367520455,0.9980954527854919,0.9809975028038025
+667,"""The law deserves respect, but technological progress should not be bound by the limits of the regulator’s lawyerly imagination."" SEC Commissioner Peirce gave an incredible speech about tokens and regulation. Read it all:",762,8i0npt,ethereum,https://twitter.com/valkenburgh/status/993936519047077894,34,,2018-08-05 21:51:48,17,19,-0.07539445824093288,0.9752370715141296,0.9809975028038025
+544,A little particle logo animation I made for you guys,887,95my8z,ethereum,https://v.redd.it/9v58ac200we11,72,,2018-08-08 15:22:50,49,10,0.645662233991138,0.9802846908569336,0.9809975028038025
+335,Elon Musk wants to buy Ethereum 🤭🤔🤫,1256,9b1ixt,ethereum,https://i.redd.it/phz9atnopvi11.jpg,174,,2018-08-28 18:40:20,75,86,-0.06835631554171165,0.9903534650802612,0.9809975028038025
 846,ETH block reward reduction to 2 ETH/Block confirmed and accepted for Constantinople.,644,9bua1y,ethereum,https://www.reddit.com/r/ethereum/comments/9bua1y/eth_block_reward_reduction_to_2_ethblock/,256,"https://www.youtube.com/watch?v=mAs3JZHroKM
 
-Circa 50minutes. Meeting ongoing. ",2018-08-31 14:53:56,0,0,0.0,0.0,0.0
+Circa 50minutes. Meeting ongoing. ",2018-08-31 14:53:56,82,133,-0.2359252231065617,0.9659687876701355,0.9956522583961487
 359,"MyCrypto hostile takeover of MyEtherwallet twitter handle: If they just take a twitter handle like that, it shows severe lack of ethics. Why would you trust them not to take your balance in the future too?",1196,7wbemb,ethereum,https://www.reddit.com/r/ethereum/comments/7wbemb/mycrypto_hostile_takeover_of_myetherwallet/,538,"Headeredit: As confirmed by /u/kvhnuke [this is the 'new/old' official MEW twitter handle](https://twitter.com/myetherwallet). If you followed him before, you'll have to follow him again since all his followers were transferred over to a competing project without consent.
 ___________________
 
@@ -2406,7 +2406,7 @@ This is not only shady in light of what's going on here, but would be seen as sh
 
 Edit5: Quoting /u/kvhnuke who confirms again that the complete situation was unexpected. He is preparing a statement.
 
-> Yes I hear all of you, and I do want everyone to know both side of the story. However, I have to say current situation is totally unexpected. Thats why I dont have a post ready to go",2018-09-02 05:45:11,0,0,0.0,0.0,0.0
+> Yes I hear all of you, and I do want everyone to know both side of the story. However, I have to say current situation is totally unexpected. Thats why I dont have a post ready to go",2018-09-02 05:45:11,136,304,-0.37717799002474006,-0.999298095703125,0.9397950172424316
 224,Official MyEtherWallet Statement,1599,7wgnds,ethereum,https://www.reddit.com/r/ethereum/comments/7wgnds/official_myetherwallet_statement/,705,"Official Statement Regarding yesterdays' events and status of [MyEtherWallet](https://www.myetherwallet.com)
 
 Hello Everyone,
@@ -2444,10 +2444,10 @@ Thank you all for your support over the last few years, and hopefully, in the ye
 
 Truly yours,  
 Kosala H.  
-kvhnuke",2018-09-02 21:10:15,0,0,0.0,0.0,0.0
-490,Just bought this Ethereum inspired painting,950,83b66c,ethereum,https://i.redd.it/4n3qqr87otk01.jpg,108,,2018-09-03 23:27:56,0,0,0.0,0.0,0.0
-860,Google lifts ban on crypto ads!,629,9j1ob2,ethereum,https://www.reddit.com/r/ethereum/comments/9j1ob2/google_lifts_ban_on_crypto_ads/,34,https://www.cnbc.com/2018/09/25/google-reverses-ban-on-cryptocurrency-exchange-advertising-in-us-japan.html,2018-09-26 11:33:30,0,0,0.0,0.0,0.0
-782,Opera's desktop browser now has built-in Ethereum support,681,9jdewv,ethereum,https://chainstate.org/2018/09/27/operas-desktop-browser-now-has-built-in-ethereum-support/,54,,2018-09-27 14:37:44,0,0,0.0,0.0,0.0
+kvhnuke",2018-09-02 21:10:15,158,251,-0.23091374676501547,0.9851089715957642,-0.9980499297380447
+490,Just bought this Ethereum inspired painting,950,83b66c,ethereum,https://i.redd.it/4n3qqr87otk01.jpg,108,,2018-09-03 23:27:56,63,29,0.3611867090930109,0.9948214292526245,0.9809975028038025
+860,Google lifts ban on crypto ads!,629,9j1ob2,ethereum,https://www.reddit.com/r/ethereum/comments/9j1ob2/google_lifts_ban_on_crypto_ads/,34,https://www.cnbc.com/2018/09/25/google-reverses-ban-on-cryptocurrency-exchange-advertising-in-us-japan.html,2018-09-26 11:33:30,16,17,-0.05735981645006122,-0.989366352558136,-0.9982694387435913
+782,Opera's desktop browser now has built-in Ethereum support,681,9jdewv,ethereum,https://chainstate.org/2018/09/27/operas-desktop-browser-now-has-built-in-ethereum-support/,54,,2018-09-27 14:37:44,27,31,-0.07839661014491114,0.9978892207145691,0.9809975028038025
 854,"I'm making a 4X-ish strategy game on Ethereum, somewhat similar to the Civilization series",630,9jmwe0,ethereum,https://www.reddit.com/r/ethereum/comments/9jmwe0/im_making_a_4xish_strategy_game_on_ethereum/,122,"I believe that one way to make a successful gaming dapp on Ethereum to create an in-game economy between players, which allows players to earn ETH from buying and selling in-game assets/resources. There are several genres that generally develop in-game economies, some of which are RPGs, simulation games and strategy games. I've chosen to make a crypto game inspired by the popular Civilization series, with some changes to fit smart contracts ie not truly turn-based but rather time-based.
 
 
@@ -2471,37 +2471,37 @@ ropsten ether faucet: https://faucet.ropsten.be/
 
 discord: https://discord.gg/QppUcn
 
-",2018-09-28 13:21:45,0,0,0.0,0.0,0.0
-594,"Listen to the Prime Minister of #Malta aka ""The Blockchain Island"", an EU and Eurozone member country say to UN General Assembly: ""Blockchain makes cryptocurrencies the inevitable future of money"".",846,9k4pxe,ethereum,https://v.redd.it/qr9y5hhr5cp11,46,,2018-09-30 08:24:10,0,0,0.0,0.0,0.0
-604,Brazil Are Looking To Ethereum To Improve Their Voting System!,841,7pf6wo,ethereum,http://bitguru.co.uk/brazil-to-use-ethereum-to-improve-voting-system/,45,,2018-10-01 12:11:33,0,0,0.0,0.0,0.0
+",2018-09-28 13:21:45,89,29,0.4994150592108904,0.99434894323349,-0.9353131353855133
+594,"Listen to the Prime Minister of #Malta aka ""The Blockchain Island"", an EU and Eurozone member country say to UN General Assembly: ""Blockchain makes cryptocurrencies the inevitable future of money"".",846,9k4pxe,ethereum,https://v.redd.it/qr9y5hhr5cp11,46,,2018-09-30 08:24:10,22,25,-0.07667596923544052,0.9477358460426331,0.9809975028038025
+604,Brazil Are Looking To Ethereum To Improve Their Voting System!,841,7pf6wo,ethereum,http://bitguru.co.uk/brazil-to-use-ethereum-to-improve-voting-system/,45,,2018-10-01 12:11:33,20,14,0.16247719350983114,0.9968674778938293,0.9809975028038025
 872,Ethereum and OmiseGO,626,7wlpy2,ethereum,https://www.reddit.com/r/ethereum/comments/7wlpy2/ethereum_and_omisego/,172,"My apologies if this is considered somewhat off topic, but I wanted to gauge the community sentiment here about the OMG project. I don't see it discussed here very much.
 
 With OMG's role in developing and implementing (at least the first iteration of) Plasma, and the amount of Ethereum advisors in OMG, the projects seem significantly linked. 
 
 So what do you think about it? Does it play a long term role in the scaling of Ethereum? Will it assume a large part of the simple value payments use case from the Ethereum blockchain? Do you consider OMG ""part of"" Ethereum?
 
-I am curious to see how OMG is viewed from the perspective of the Ethereum community.",2018-10-02 14:30:45,0,0,0.0,0.0,0.0
-453,Coinbase Launches a PayPal Like Plugging For Ethereum,1008,7wn0el,ethereum,https://www.trustnodes.com/2018/02/10/coinbase-launches-paypal-like-plugging-ethereum-bitcoin-bitcoin-cash-litecoin/,86,,2018-10-02 18:02:25,0,0,0.0,0.0,0.0
-382,Ethereum has updates in 27 of its repos in the last 24 hours. There is no other cryptocurrency that compares to this level of development. This doesn't even include all the Dapps being built on top of the core technology itself.,1148,8b5y7h,ethereum,https://github.com/ethereum,111,,2018-10-04 07:56:29,0,0,0.0,0.0,0.0
-777,NASDAQ: Golem launches on Ethereum mainnet,688,8bb0zm,ethereum,https://www.nasdaq.com/article/golem-the-airbnb-for-computers-launches-on-ethereum-mainnet-in-beta-cm946146,38,,2018-10-04 20:22:55,0,0,0.0,0.0,0.0
-852,Ethereum’s Inflation Will Be Reduced 80% With Casper’s Adoption,630,8iezbn,ethereum,https://www.wetalkcoins.com/news/ethereums-inflation-will-be-reduced-80-with-caspers-adoption,195,,2018-10-05 13:45:01,0,0,0.0,0.0,0.0
-896,Ethereum ATM in Hong Kong,610,8pxef6,ethereum,https://i.redd.it/t4m5pjbyo2311.jpg,38,,2018-10-06 01:02:51,0,0,0.0,0.0,0.0
-731,Winklevoss Brothers Launch Ethereum Token Backed By U.S. Dollars,716,9eng9i,ethereum,https://www.reddit.com/r/ethereum/comments/9eng9i/winklevoss_brothers_launch_ethereum_token_backed/,169,[https://www.forbes.com/sites/michaeldelcastillo/2018/09/07/winklevoss-brothers-launch-ethereum-token-backed-by-us-dollars](https://www.forbes.com/sites/michaeldelcastillo/2018/09/07/winklevoss-brothers-launch-ethereum-token-backed-by-us-dollars),2018-10-09 14:08:31,0,0,0.0,0.0,0.0
-743,"Steve Wozeniak is co-founding a new project, EQUI, using the Ethereum network",709,9obws1,ethereum,https://www.advfn.com/news_Global-Tech-Icon-Steve-Wozniak-Becomes-the-Co-foun_78459836.html,67,,2018-10-15 11:41:40,0,0,0.0,0.0,0.0
-497,MetaMask announce mobile wallet - Devcon!,939,9syxwl,ethereum,https://i.redd.it/xxodtdd91jv11.jpg,74,,2018-10-31 13:55:50,0,0,0.0,0.0,0.0
+I am curious to see how OMG is viewed from the perspective of the Ethereum community.",2018-10-02 14:30:45,122,52,0.39571371160704516,0.9935662150382996,-0.8707706332206726
+453,Coinbase Launches a PayPal Like Plugging For Ethereum,1008,7wn0el,ethereum,https://www.trustnodes.com/2018/02/10/coinbase-launches-paypal-like-plugging-ethereum-bitcoin-bitcoin-cash-litecoin/,86,,2018-10-02 18:02:25,57,32,0.26334963487775137,0.9963625073432922,0.9809975028038025
+382,Ethereum has updates in 27 of its repos in the last 24 hours. There is no other cryptocurrency that compares to this level of development. This doesn't even include all the Dapps being built on top of the core technology itself.,1148,8b5y7h,ethereum,https://github.com/ethereum,111,,2018-10-04 07:56:29,66,47,0.1804337812735971,-0.5884102582931519,0.9809975028038025
+777,NASDAQ: Golem launches on Ethereum mainnet,688,8bb0zm,ethereum,https://www.nasdaq.com/article/golem-the-airbnb-for-computers-launches-on-ethereum-mainnet-in-beta-cm946146,38,,2018-10-04 20:22:55,24,11,0.3574096117700849,0.9954804182052612,0.9809975028038025
+852,Ethereum’s Inflation Will Be Reduced 80% With Casper’s Adoption,630,8iezbn,ethereum,https://www.wetalkcoins.com/news/ethereums-inflation-will-be-reduced-80-with-caspers-adoption,195,,2018-10-05 13:45:01,75,117,-0.19829571901613638,0.9221243858337402,0.9809975028038025
+896,Ethereum ATM in Hong Kong,610,8pxef6,ethereum,https://i.redd.it/t4m5pjbyo2311.jpg,38,,2018-10-06 01:02:51,19,15,0.08881256334921893,0.9936743974685669,0.9809975028038025
+731,Winklevoss Brothers Launch Ethereum Token Backed By U.S. Dollars,716,9eng9i,ethereum,https://www.reddit.com/r/ethereum/comments/9eng9i/winklevoss_brothers_launch_ethereum_token_backed/,169,[https://www.forbes.com/sites/michaeldelcastillo/2018/09/07/winklevoss-brothers-launch-ethereum-token-backed-by-us-dollars](https://www.forbes.com/sites/michaeldelcastillo/2018/09/07/winklevoss-brothers-launch-ethereum-token-backed-by-us-dollars),2018-10-09 14:08:31,80,83,-0.010949000624791245,0.9967527985572815,0.9896635413169861
+743,"Steve Wozeniak is co-founding a new project, EQUI, using the Ethereum network",709,9obws1,ethereum,https://www.advfn.com/news_Global-Tech-Icon-Steve-Wozniak-Becomes-the-Co-foun_78459836.html,67,,2018-10-15 11:41:40,34,32,0.0498071014881134,0.9965762495994568,0.9809975028038025
+497,MetaMask announce mobile wallet - Devcon!,939,9syxwl,ethereum,https://i.redd.it/xxodtdd91jv11.jpg,74,,2018-10-31 13:55:50,48,22,0.3521966474396842,0.9970026612281799,0.9809975028038025
 844,"Intel and IBM showed 49/50 qubits Quantum Computers on CES. As there are more and more progresses on the development of Quantum Computers, this is a real threat to blockchains and we need to solve this ASAP.",642,7plfnc,ethereum,https://www.reddit.com/r/ethereum/comments/7plfnc/intel_and_ibm_showed_4950_qubits_quantum/,339,"Intel's 49 quibits quantum computer: http://www.zdnet.com/article/ces-2018-intel-announces-major-breakthrough-in-quantum-computing-chip/
 
 IBM's 50 quibits quantum computer: https://www.engadget.com/2018/01/09/this-is-what-a-50-qubit-quantum-computer-looks-like/
-",2018-11-01 03:57:00,0,0,0.0,0.0,0.0
+",2018-11-01 03:57:00,168,166,0.017062540896638424,0.9895485639572144,0.9980083107948303
 272,Four university level courses that cover Ethereum and smart contracts,1429,7pqu86,ethereum,https://www.reddit.com/r/ethereum/comments/7pqu86/four_university_level_courses_that_cover_ethereum/,88,"I have made a list of 10 university level [cryptocurrency courses](https://sky2learn.com/Bitcoin-and-Cryptocurrency-Online-Courses-and-Tutorials-Fundamentals-to-Developments.html). Four courses cover Ethereum in detail, here they are:
 
 * [Bitcoin and Cryptocurrencies](https://crypto.stanford.edu/cs251_fall15/) by Dan Boneh and Joseph Bonneau at Stanford
 * [Cryptocurrency Security](http://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/) by Andrew Miller at UIUC
 * [Cryptocurrency Decal](https://blockchain.berkeley.edu/decal/) at Berkeley
-* [Bitcoin and Blockchain Technology](http://users.encs.concordia.ca/~clark/courses/1703-6630/index.html) by Jeremy Clark. Concordia University. ",2018-11-01 20:04:01,0,0,0.0,0.0,0.0
-732,"The Quantum Threat: ""Anyone who collects that data now will be able to crack it later, so it’s safe to assume governments and their spying agencies are hoovering up anything that’ll be useful,",722,7wt13q,ethereum,http://www.wired.co.uk/article/quantum-computers-quantum-security-encryption,90,,2018-11-02 14:23:28,0,0,0.0,0.0,0.0
-639,Crypto won't be advertised: Google informally removing ICO ads,795,83n06b,ethereum,https://www.btcnn.com/google-informally-banning-ico-ads/,176,,2018-11-03 14:29:19,0,0,0.0,0.0,0.0
-55,Shut just got real...Vitalik responds,2945,8ijmxb,ethereum,https://i.redd.it/5tplftpoe4x01.jpg,293,,2018-11-05 00:23:48,0,0,0.0,0.0,0.0
+* [Bitcoin and Blockchain Technology](http://users.encs.concordia.ca/~clark/courses/1703-6630/index.html) by Jeremy Clark. Concordia University. ",2018-11-01 20:04:01,63,7,0.7940605163574219,0.9977582097053528,-0.9925300478935242
+732,"The Quantum Threat: ""Anyone who collects that data now will be able to crack it later, so it’s safe to assume governments and their spying agencies are hoovering up anything that’ll be useful,",722,7wt13q,ethereum,http://www.wired.co.uk/article/quantum-computers-quantum-security-encryption,90,,2018-11-02 14:23:28,39,53,-0.13122150172357974,-0.9985462427139282,0.9809975028038025
+639,Crypto won't be advertised: Google informally removing ICO ads,795,83n06b,ethereum,https://www.btcnn.com/google-informally-banning-ico-ads/,176,,2018-11-03 14:29:19,55,98,-0.2832973151425131,-0.9893236756324768,0.9809975028038025
+55,Shut just got real...Vitalik responds,2945,8ijmxb,ethereum,https://i.redd.it/5tplftpoe4x01.jpg,293,,2018-11-05 00:23:48,115,163,-0.1812190825133015,-0.8929025530815125,0.9809975028038025
 956,"Satellite named ""EtherX"" as an ode to Ethereum to be launched on SpaceX Falcon 9 in Winter 2019",570,a5831t,ethereum,https://www.reddit.com/r/ethereum/comments/a5831t/satellite_named_etherx_as_an_ode_to_ethereum_to/,85,"Hey everyone, we just put out a news release regarding our first satellite launch.  I would like to share it with you. It's amazing what Ethereum has pulled off as a community. It's truly special and the collection of people (cryptographers, artists, dreamers and creators). As an ode to what the community has built, I wanted to make sure we named the first satellite that XYO launches after Ethereum! I'm heading to ETHDenver with my team this year and look forward to catching up with everyone I met from last year!
 
 From the press release, here's the part I'm most proud of!
@@ -2514,8 +2514,8 @@ From the press release, here's the part I'm most proud of!
 
 Here's the [link to the press release](https://www.businesswire.com/news/home/20181211005375/en/). 
 
-&#x200B;",2018-11-12 16:04:55,0,0,0.0,0.0,0.0
-950,Original painting I got back from the framer today,574,9xt5ah,ethereum,https://i.imgur.com/HIOMfyo.jpg,92,,2018-11-17 03:30:40,0,0,0.0,0.0,0.0
+&#x200B;",2018-11-12 16:04:55,40,18,0.3588627463784711,0.9969236254692078,-0.9986939430236816
+950,Original painting I got back from the framer today,574,9xt5ah,ethereum,https://i.imgur.com/HIOMfyo.jpg,92,,2018-11-17 03:30:40,54,32,0.22082837861637736,0.9870960712432861,0.9809975028038025
 822,"You've met with a terrible fate, haven't you?",658,9yxja2,ethereum,https://www.reddit.com/r/ethereum/comments/9yxja2/youve_met_with_a_terrible_fate_havent_you/,152,"You may remember me from [2 years ago](https://www.reddit.com/r/ethereum/comments/5kr0uu/how_ethereum_will_eventually_become_the_internet/), when Ethereum was selling for 7 USD and officially dead. That motivated me to submit a lengthy explanation on how it was the future of the internet, the price would eventually recover and there was nothing to worry about. Turns out Ethereum is officially dead again, selling at 130 usd. Why? Because it is boring. The ICO craze is over and we're experimenting a long-lasting hangover. Normal people are saturated with crypto and going on with their lives. Google trends are down. Nobody is here. You can hear the crickets. And that won't change any soon. 
 
 But, once again, there is nothing to worry about, as long as you're patient: eventually things will change because, as I've told you before, credit cards are stupid, fiat is mortal, and Ethereum has the perfect momentum to eventually become the worldwide economy; it can't die, by design. Once we have new exciting stuff that makes people entertained and curious, they'll be back. Meanwhile, here are some suggestions to have some fun and speed up this process.
@@ -2541,25 +2541,25 @@ You may or may not have noticed, but governments are fueled by money. The only r
 ...
 
 That's it. Thanks for listening to this old man! For those who know who I am: *shh*.
-",2018-11-20 23:17:56,0,0,0.0,0.0,0.0
-821,Vitalik Buterin Awarded Honorary Doctorate from University of Basel,654,a1t6te,ethereum,https://www.coindesk.com/vitalik-buterin-awarded-honorary-doctorate-from-university-of-basel,60,,2018-11-30 15:06:27,0,0,0.0,0.0,0.0
-163,Arizona Could Allow People Pay Taxes in Cryptocurrencies,1853,7pxn3i,ethereum,https://usethebitcoin.com/arizona-allow-people-pay-taxes-cryptocurrencies/,140,,2018-12-01 16:21:33,0,0,0.0,0.0,0.0
-116,"Vitalik just donated 100 ETH to the Internet Archive! P.S. I'm matching all donations, up to $1 mil 🍍",2163,7wxfi7,ethereum,https://etherscan.io/tx/0x8bd3cbe28b90786afbdf16ce9f1c99e76726623a3b764fc7e6e55563c9767777,80,,2018-12-02 01:57:25,0,0,0.0,0.0,0.0
-862,Microsoft Announcement,627,7x2jyn,ethereum,https://www.forbes.com/sites/ktorpey/2018/02/12/microsoft-to-embrace-decentralized-identity-systems-built-on-bitcoin-and-other-blockchains/#511d4df95ada,52,,2018-12-02 17:53:30,0,0,0.0,0.0,0.0
-649,These results represent the first time a Blockchain was used in a presidential election. Link to see it in comments,781,83v7x9,ethereum,https://i.redd.it/r7s3xfvibcl01.png,59,,2018-12-03 14:11:15,0,0,0.0,0.0,0.0
-919,US Lawmakers File Bill to Exempt Cryptocurrencies from Securities Laws,602,a83wlv,ethereum,https://www.coindesk.com/us-lawmakers-file-bill-to-exempt-cryptocurrencies-from-securities-laws,32,,2018-12-20 23:26:22,0,0,0.0,0.0,0.0
-738,Lol,713,b8gmcg,ethereum,https://i.redd.it/p7cge4k2etp21.jpg,82,,2019-02-04 08:50:00,0,0,0.0,0.0,0.0
-626,IKEA just allowed an invoice to be paid via the Ethereum blockchain,815,dcajk0,ethereum,https://thenextweb.com/hardfork/2019/10/02/ikea-iceland-smart-contracts-ethereum-tradeshift-monerium-invoice-nordic-store/,40,,2019-02-10 13:56:33,0,0,0.0,0.0,0.0
-879,"“If we want crypto to get more adoption, it has to be by providing real value to people” - Vitalik Buterin at ETHSingapore",616,ac7j9z,ethereum,https://youtu.be/egC2F_JKuhc,97,,2019-03-01 16:52:40,0,0,0.0,0.0,0.0
-687,"Vitalik almost interned at Ripple (2013), but visa complications stopped him. Thanks US customs, we truly avoided the worst <3",748,bex4qe,ethereum,https://twitter.com/VitalikButerin/status/1119148572107165696,120,,2019-04-19 09:19:11,0,0,0.0,0.0,0.0
-745,Elon Musk asks “what should be developed on Ethereum?”,706,bj1ks6,ethereum,https://news.yahoo.com/elon-musk-asks-developed-ethereum-094756791.html,189,,2019-04-30 10:09:09,0,0,0.0,0.0,0.0
-880,"Three huge names that are making Ethereum their platform of choice - JP Morgan, Amazon (AWS) and Microsoft (Azure)",619,bpfjqx,ethereum,https://finance.yahoo.com/news/three-huge-names-making-ethereum-140010121.html,61,,2019-05-16 17:39:33,0,0,0.0,0.0,0.0
-933,Holographic Ethereum Art,584,anp9hv,ethereum,https://v.redd.it/1aix3zsl8xe21,85,,2019-06-02 10:02:02,0,0,0.0,0.0,0.0
-794,MetLife Plans To Disrupt $2.7 Trillion Life Insurance Industry Using Ethereum Blockchain,672,c2l78o,ethereum,https://i.redd.it/zs0wsakc3d531.jpg,34,,2019-06-19 19:07:02,0,0,0.0,0.0,0.0
-686,Wait for it...,753,c7j831,ethereum,https://i.imgur.com/NFxxT3Y.gifv,36,,2019-06-30 20:35:34,0,0,0.0,0.0,0.0
-478,1 ETH Metal Wallet design.,967,bxwovx,ethereum,https://i.redd.it/f6kfrs71py231.png,77,,2019-07-06 16:33:46,0,0,0.0,0.0,0.0
-618,"Eth Game Gods Unchained: ""@Blizzard_Ent just banned @blitzchungHS and stripped his Hearthstone winnings because they care about money more than freedom. We will pay for ALL his lost winnings and a ticket to our $500k tournament: no player should be punished for their beliefs. #freegaming""",822,dezgdk,ethereum,https://twitter.com/GodsUnchained/status/1181487505180258304?s=19,52,,2019-08-10 12:45:57,0,0,0.0,0.0,0.0
-491,So I've been busy watching Vitalik this week,947,cqr3tv,ethereum,https://v.redd.it/8zilrf1lomg31,59,,2019-08-15 15:09:22,0,0,0.0,0.0,0.0
+",2018-11-20 23:17:56,91,50,0.2883626336747028,-0.9986422657966614,-0.9366440653800965
+821,Vitalik Buterin Awarded Honorary Doctorate from University of Basel,654,a1t6te,ethereum,https://www.coindesk.com/vitalik-buterin-awarded-honorary-doctorate-from-university-of-basel,60,,2018-11-30 15:06:27,32,19,0.25362314897425037,0.9928798079490662,0.9809975028038025
+163,Arizona Could Allow People Pay Taxes in Cryptocurrencies,1853,7pxn3i,ethereum,https://usethebitcoin.com/arizona-allow-people-pay-taxes-cryptocurrencies/,140,,2018-12-01 16:21:33,60,70,-0.08843040328759413,0.7548990249633789,0.9809975028038025
+116,"Vitalik just donated 100 ETH to the Internet Archive! P.S. I'm matching all donations, up to $1 mil 🍍",2163,7wxfi7,ethereum,https://etherscan.io/tx/0x8bd3cbe28b90786afbdf16ce9f1c99e76726623a3b764fc7e6e55563c9767777,80,,2018-12-02 01:57:25,58,18,0.5033986654720808,0.9983282685279846,0.9809975028038025
+862,Microsoft Announcement,627,7x2jyn,ethereum,https://www.forbes.com/sites/ktorpey/2018/02/12/microsoft-to-embrace-decentralized-identity-systems-built-on-bitcoin-and-other-blockchains/#511d4df95ada,52,,2018-12-02 17:53:30,39,13,0.4954428111131375,0.9959437251091003,0.9809975028038025
+649,These results represent the first time a Blockchain was used in a presidential election. Link to see it in comments,781,83v7x9,ethereum,https://i.redd.it/r7s3xfvibcl01.png,59,,2018-12-03 14:11:15,30,29,0.01671767537876711,0.9921207427978516,0.9809975028038025
+919,US Lawmakers File Bill to Exempt Cryptocurrencies from Securities Laws,602,a83wlv,ethereum,https://www.coindesk.com/us-lawmakers-file-bill-to-exempt-cryptocurrencies-from-securities-laws,32,,2018-12-20 23:26:22,14,13,0.09269666230237042,-0.6321093440055847,0.9809975028038025
+738,Lol,713,b8gmcg,ethereum,https://i.redd.it/p7cge4k2etp21.jpg,82,,2019-02-04 08:50:00,42,41,0.009687795696488345,0.9924300312995911,0.9809975028038025
+626,IKEA just allowed an invoice to be paid via the Ethereum blockchain,815,dcajk0,ethereum,https://thenextweb.com/hardfork/2019/10/02/ikea-iceland-smart-contracts-ethereum-tradeshift-monerium-invoice-nordic-store/,40,,2019-02-10 13:56:33,25,14,0.2742045338337238,0.9957006573677063,0.9809975028038025
+879,"“If we want crypto to get more adoption, it has to be by providing real value to people” - Vitalik Buterin at ETHSingapore",616,ac7j9z,ethereum,https://youtu.be/egC2F_JKuhc,97,,2019-03-01 16:52:40,41,44,-0.033918342169593364,0.9956661462783813,0.9809975028038025
+687,"Vitalik almost interned at Ripple (2013), but visa complications stopped him. Thanks US customs, we truly avoided the worst <3",748,bex4qe,ethereum,https://twitter.com/VitalikButerin/status/1119148572107165696,120,,2019-04-19 09:19:11,35,51,-0.18713442600050637,-0.8228693008422852,0.9809975028038025
+745,Elon Musk asks “what should be developed on Ethereum?”,706,bj1ks6,ethereum,https://news.yahoo.com/elon-musk-asks-developed-ethereum-094756791.html,189,,2019-04-30 10:09:09,94,83,0.06711851094065413,0.9616596102714539,0.9809975028038025
+880,"Three huge names that are making Ethereum their platform of choice - JP Morgan, Amazon (AWS) and Microsoft (Azure)",619,bpfjqx,ethereum,https://finance.yahoo.com/news/three-huge-names-making-ethereum-140010121.html,61,,2019-05-16 17:39:33,41,20,0.31743459427942994,0.9984001517295837,0.9809975028038025
+933,Holographic Ethereum Art,584,anp9hv,ethereum,https://v.redd.it/1aix3zsl8xe21,85,,2019-06-02 10:02:02,50,30,0.26714530065655706,0.9862355589866638,0.9809975028038025
+794,MetLife Plans To Disrupt $2.7 Trillion Life Insurance Industry Using Ethereum Blockchain,672,c2l78o,ethereum,https://i.redd.it/zs0wsakc3d531.jpg,34,,2019-06-19 19:07:02,11,19,-0.2505726754665375,0.9533045291900635,0.9809975028038025
+686,Wait for it...,753,c7j831,ethereum,https://i.imgur.com/NFxxT3Y.gifv,36,,2019-06-30 20:35:34,22,11,0.3154391140648813,-0.8791394829750061,0.9809975028038025
+478,1 ETH Metal Wallet design.,967,bxwovx,ethereum,https://i.redd.it/f6kfrs71py231.png,77,,2019-07-06 16:33:46,44,23,0.3130410518219222,0.9910386204719543,0.9809975028038025
+618,"Eth Game Gods Unchained: ""@Blizzard_Ent just banned @blitzchungHS and stripped his Hearthstone winnings because they care about money more than freedom. We will pay for ALL his lost winnings and a ticket to our $500k tournament: no player should be punished for their beliefs. #freegaming""",822,dezgdk,ethereum,https://twitter.com/GodsUnchained/status/1181487505180258304?s=19,52,,2019-08-10 12:45:57,26,34,-0.14026989440123241,-0.9861847758293152,0.9809975028038025
+491,So I've been busy watching Vitalik this week,947,cqr3tv,ethereum,https://v.redd.it/8zilrf1lomg31,59,,2019-08-15 15:09:22,48,11,0.6033358735553289,0.9280927181243896,0.9809975028038025
 949,Google blacklisted Ethereum in Google Ads,574,aewa0e,ethereum,https://www.reddit.com/r/ethereum/comments/aewa0e/google_blacklisted_ethereum_in_google_ads/,131,"Hey all,
 
 We've been using Google Ads for the past 6 months to help us get more visibility for our smart contract auditing services and we've noticed a strange change in the last few days. It seems that Google completely blacklisted Ethereum as a keyword.
@@ -2578,25 +2578,25 @@ What's interesting is that the blacklist doesn't apply to the keywords such as "
 
 Is anyone else seeing the same thing and do they have an idea as to why?
 
-We are concerned that Google is targeting Ethereum specifically for some reason and wanted to see if we as a community could put some pressure on the Google Ads team to adjust their keyword policy or to at least provide a reasonable explanation for such discriminatory regulations.",2019-11-01 15:11:14,0,0,0.0,0.0,0.0
-235,Found a new use for my Ether rig.,1544,dg9x2r,ethereum,https://i.redd.it/gpxfxftv9ur31.jpg,157,,2019-11-10 04:24:57,0,0,0.0,0.0,0.0
-671,Amazon is soon adding Ethereum as a Managed Blockchain Service,764,apuee4,ethereum,https://aws.amazon.com/managed-blockchain/?hp=tile&so-exp=below,49,,2019-12-02 15:23:56,0,0,0.0,0.0,0.0
-448,"President Dump is going to send us to the moon, with all of this free advertisement.",1011,cc3qdn,ethereum,https://i.redd.it/81sf2xzbpr931.jpg,309,,2019-12-07 00:31:42,0,0,0.0,0.0,0.0
-734,"France will not tax crypto-to-crypto trades; will tax gains converted into ""traditional"" currency",720,d37upg,ethereum,https://www.theblockcrypto.com/linked/39518/france-will-not-tax-crypto-to-crypto-trades-will-tax-gains-converted-into-traditional-currency/,57,,2019-12-09 13:24:05,0,0,0.0,0.0,0.0
-577,"Vitalik: ""While everyone wasn't looking, Ethereum's layer 2 scaling strategy has *basically* succeeded""",863,gultwz,ethereum,https://twitter.com/VitalikButerin/status/1267464298919534593,104,,2020-01-06 14:42:22,0,0,0.0,0.0,0.0
-859,"Me, a non-whale, trying to use the network",627,ikgt4d,ethereum,https://i.redd.it/prpe795v2ik51.png,106,,2020-01-09 08:54:01,0,0,0.0,0.0,0.0
-418,Ethereum 2.0 has officially launched! Genesis - again! A historic moment!,1077,k4jqvl,ethereum,https://twitter.com/mintable_app/status/1333746164697427969,121,,2020-01-12 12:14:18,0,0,0.0,0.0,0.0
-755,Visa's patent to digitise dollars shows that they plan to use Ethereum. (Also if you check the patent there's no indication that this will be a fork or private version of ethereum.),706,hk2s67,ethereum,https://i.redd.it/6tdrc0zwoh851.jpg,72,,2020-02-07 18:45:04,0,0,0.0,0.0,0.0
-583,Something we can agree on. #fullcircle,856,il09rg,ethereum,https://i.redd.it/r4e4mc0dynk51.jpg,36,,2020-02-09 04:38:18,0,0,0.0,0.0,0.0
-895,ETH 2.0 Party,610,k4zwv1,ethereum,https://v.redd.it/j6bk9nagno261,49,,2020-02-12 02:13:31,0,0,0.0,0.0,0.0
-889,Visa Partners With Ethereum Digital Dollar Startup That Raised $271 Million,610,k5bkw6,ethereum,https://www.reddit.com/r/ethereum/comments/k5bkw6/visa_partners_with_ethereum_digital_dollar/,60,[Visa Partners With Ethereum Digital Dollar Startup That Raised $271 Million](https://www.forbes.com/sites/michaeldelcastillo/2020/12/02/visa-partners-with-ethereum-digital-dollar-startup-that-raised-271-million/?sh=38ec3b8a4b1f),2020-02-12 15:44:06,0,0,0.0,0.0,0.0
-866,Swiss accepts taxes in ETH and BTC from next year.,628,ils5i7,ethereum,https://www.coindesk.com/swiss-canton-zug-accept-taxes-crypto-bitcoin-ether-2021,74,,2020-03-09 12:08:21,0,0,0.0,0.0,0.0
-737,"ETH 2.0 deposit contract is live! Genesis launch scheduled for December 1st, 2020, 12pm UTC",713,jnz8sd,ethereum,https://github.com/ethereum/eth2.0-specs/commit/297538208ece97648a9a03b90f09fcb2d1bd8e3e,139,,2020-04-11 16:02:07,0,0,0.0,0.0,0.0
+We are concerned that Google is targeting Ethereum specifically for some reason and wanted to see if we as a community could put some pressure on the Google Ads team to adjust their keyword policy or to at least provide a reasonable explanation for such discriminatory regulations.",2019-11-01 15:11:14,35,91,-0.4351530803574456,-0.9714165329933167,0.9983550012111664
+235,Found a new use for my Ether rig.,1544,dg9x2r,ethereum,https://i.redd.it/gpxfxftv9ur31.jpg,157,,2019-11-10 04:24:57,89,65,0.1440597637133165,0.980148434638977,0.9809975028038025
+671,Amazon is soon adding Ethereum as a Managed Blockchain Service,764,apuee4,ethereum,https://aws.amazon.com/managed-blockchain/?hp=tile&so-exp=below,49,,2019-12-02 15:23:56,22,23,-0.0011686311827765572,0.997102677822113,0.9809975028038025
+448,"President Dump is going to send us to the moon, with all of this free advertisement.",1011,cc3qdn,ethereum,https://i.redd.it/81sf2xzbpr931.jpg,309,,2019-12-07 00:31:42,112,188,-0.241610436240832,0.9217684268951416,0.9809975028038025
+734,"France will not tax crypto-to-crypto trades; will tax gains converted into ""traditional"" currency",720,d37upg,ethereum,https://www.theblockcrypto.com/linked/39518/france-will-not-tax-crypto-to-crypto-trades-will-tax-gains-converted-into-traditional-currency/,57,,2019-12-09 13:24:05,23,40,-0.24548737870322335,-0.6997630000114441,0.9809975028038025
+577,"Vitalik: ""While everyone wasn't looking, Ethereum's layer 2 scaling strategy has *basically* succeeded""",863,gultwz,ethereum,https://twitter.com/VitalikButerin/status/1267464298919534593,104,,2020-01-06 14:42:22,69,28,0.40502361722828184,0.9447352886199951,0.9809975028038025
+859,"Me, a non-whale, trying to use the network",627,ikgt4d,ethereum,https://i.redd.it/prpe795v2ik51.png,106,,2020-01-09 08:54:01,54,50,0.03981474041938782,0.8701092004776001,0.9809975028038025
+418,Ethereum 2.0 has officially launched! Genesis - again! A historic moment!,1077,k4jqvl,ethereum,https://twitter.com/mintable_app/status/1333746164697427969,121,,2020-01-12 12:14:18,74,23,0.5070621561758297,0.9988923668861389,0.9809975028038025
+755,Visa's patent to digitise dollars shows that they plan to use Ethereum. (Also if you check the patent there's no indication that this will be a fork or private version of ethereum.),706,hk2s67,ethereum,https://i.redd.it/6tdrc0zwoh851.jpg,72,,2020-02-07 18:45:04,33,36,-0.040732895118602806,0.9953742623329163,0.9809975028038025
+583,Something we can agree on. #fullcircle,856,il09rg,ethereum,https://i.redd.it/r4e4mc0dynk51.jpg,36,,2020-02-09 04:38:18,20,15,0.14654833929879324,0.9899853467941284,0.9809975028038025
+895,ETH 2.0 Party,610,k4zwv1,ethereum,https://v.redd.it/j6bk9nagno261,49,,2020-02-12 02:13:31,30,4,0.7430147353340598,0.9759203195571899,0.9809975028038025
+889,Visa Partners With Ethereum Digital Dollar Startup That Raised $271 Million,610,k5bkw6,ethereum,https://www.reddit.com/r/ethereum/comments/k5bkw6/visa_partners_with_ethereum_digital_dollar/,60,[Visa Partners With Ethereum Digital Dollar Startup That Raised $271 Million](https://www.forbes.com/sites/michaeldelcastillo/2020/12/02/visa-partners-with-ethereum-digital-dollar-startup-that-raised-271-million/?sh=38ec3b8a4b1f),2020-02-12 15:44:06,30,17,0.26697265848200374,0.9978043437004089,0.9957614541053772
+866,Swiss accepts taxes in ETH and BTC from next year.,628,ils5i7,ethereum,https://www.coindesk.com/swiss-canton-zug-accept-taxes-crypto-bitcoin-ether-2021,74,,2020-03-09 12:08:21,22,40,-0.28671879441507403,-0.9309774041175842,0.9809975028038025
+737,"ETH 2.0 deposit contract is live! Genesis launch scheduled for December 1st, 2020, 12pm UTC",713,jnz8sd,ethereum,https://github.com/ethereum/eth2.0-specs/commit/297538208ece97648a9a03b90f09fcb2d1bd8e3e,139,,2020-04-11 16:02:07,90,39,0.37033763735793357,0.9976825714111328,0.9809975028038025
 725,"Prove me wrong. If the United States Government seriously wanted to have a fair and accurate election that nobody could mathematically dispute, it could be done on blockchain and could be done very fast with little effort.",727,k6terd,ethereum,https://www.reddit.com/r/ethereum/comments/k6terd/prove_me_wrong_if_the_united_states_government/,300,"Leave the lobbyists, fearmongers and liars out of the equation. Leave the fact that legacy media would try to brainwash people to oppose it out of this discussion. Is it possible or not? Why? Why not?
 
-This is not meant to be a political discussion, but rather a discussion on what is possible.",2020-04-12 20:57:33,0,0,0.0,0.0,0.0
-541,🔥Ethereum Will Never Work,885,g782sk,ethereum,https://i.redd.it/22v9jvj0mru41.jpg,95,,2020-04-24 13:08:44,0,0,0.0,0.0,0.0
-837,WTF is 🛠ETH.BUILD,645,gkgbu8,ethereum,https://youtu.be/30pa790tIIA?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi,72,,2020-05-15 19:59:36,0,0,0.0,0.0,0.0
+This is not meant to be a political discussion, but rather a discussion on what is possible.",2020-04-12 20:57:33,114,184,-0.22638339737651061,-0.996757447719574,-0.998609185218811
+541,🔥Ethereum Will Never Work,885,g782sk,ethereum,https://i.redd.it/22v9jvj0mru41.jpg,95,,2020-04-24 13:08:44,48,46,0.003722036138493964,-0.9959843158721924,0.9809975028038025
+837,WTF is 🛠ETH.BUILD,645,gkgbu8,ethereum,https://youtu.be/30pa790tIIA?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi,72,,2020-05-15 19:59:36,60,7,0.769727194487159,-0.9900168776512146,0.9809975028038025
 281,The Great Reddit Scaling Bake-Off,1400,hbjx25,ethereum,https://www.reddit.com/r/ethereum/comments/hbjx25/the_great_reddit_scaling_bakeoff/,683,"Update (9/30): We are still working on finalizing our scaling solution. We've been very impressed with the breadth and depth of proposals submitted in this Bake-Off. Many projects have done great work, and it's good to see so many ideas in the Ethereum ecosystem.
 
 While we are continuing our due diligence, it's taking a bit longer than we expected to understand all the options in detail. As soon as we have more to share, we will make an update here. Thank you for your patience.
