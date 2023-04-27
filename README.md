@@ -22,3 +22,7 @@ builds linear regression and random forest to predict the cryptocurrency price p
 Running applications in background:
 Example-
 CMD : nohup python3 -u reddit_network_sentiment_to_predict_cryptocurrency_price_movement_bitcoin.py &> nohupbitcoin.out &
+
+
+GITHUB LINK: 
+https://github.com/krishnakashiv/Reddit-Network-Analysis-
