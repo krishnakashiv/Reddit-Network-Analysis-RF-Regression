@@ -1,34 +1,35 @@
+# Reddit Network Analysis to Predict Cryptocurrency Price Movements
+
 This project aims to analyze sentiment data from Reddit posts in cryptocurrency subreddits and apply machine learning models to predict price movements for Bitcoin and Ethereum. It also includes network graph analysis to explore relationships between Reddit authors and their influence within the subreddit communities.
 
 Applications Overview
 1. Sentiment Analysis for Price Prediction
 Files:
-reddit_network_sentiment_to_predict_cryptocurrency_price_movement_bitcoin.py
-reddit_network_sentiment_to_predict_cryptocurrency_price_movement_etheruem.py
+**reddit_network_sentiment_to_predict_cryptocurrency_price_movement_bitcoin.py
+reddit_network_sentiment_to_predict_cryptocurrency_price_movement_etheruem.py**
 These Python scripts collect Reddit data from the subreddits r/bitcoin and r/ethereum. They fetch all top posts over a given period and analyze their sentiment using Natural Language Processing (NLP) techniques.
 
 After processing the data, the final output is stored in a CSV file. The CSV contains key metrics such as:
 
-Post ID
+**Post ID
 Post Title
 Sentiment Score
 Author
 Number of Upvotes, Downvotes, Comments
-Date and Time of Posting
+Date and Time of Posting**
+
 This data is then used as input for further analysis or model building.
 
 Output:
-bitcoin_sentiment_data.csv
-ethereum_sentiment_data.csv
+**bitcoin_sentiment_data.csv
+ethereum_sentiment_data.csv**
 Command to run (example):
-bash
-Copy code
-nohup python3 -u reddit_network_sentiment_to_predict_cryptocurrency_price_movement_bitcoin.py &> nohup_bitcoin.out &
+**nohup python3 -u reddit_network_sentiment_to_predict_cryptocurrency_price_movement_bitcoin.py &> nohup_bitcoin.out &**
 This runs the script in the background while saving logs to the nohup_bitcoin.out file.
 
 2. Author-Author Network Graph Creation
 File:
-reddit_network_graph.py
+**reddit_network_graph.py**
 This script builds a directed weighted graph that represents relationships between Reddit authors in the chosen subreddits. The edges of the graph represent interactions between authors (e.g., replies, comments), and the weights represent the frequency or intensity of these interactions.
 
 The script applies PageRank to identify the most influential authors within the subreddit, and the results are saved in a CSV file.
@@ -37,15 +38,15 @@ Key Features:
 Directed, weighted graph of Reddit author relationships.
 Normalized PageRank values for each author to evaluate their influence in the subreddit.
 Output:
-author_network_bitcoin.csv
-author_network_ethereum.csv
+**author_network_bitcoin.csv
+author_network_ethereum.csv**
+
 Command to run:
-bash
-Copy code
 python3 reddit_network_graph.py
+
 3. Price Prediction using Machine Learning
 File:
-linear_regression_random_forest.py
+**linear_regression_random_forest.py**
 This script uses the sentiment data generated in the previous steps and builds two machine learning models—Linear Regression and Random Forest—to predict future cryptocurrency price points (Bitcoin or Ethereum) based on historical sentiment trends.
 
 Models Built:
