@@ -5,8 +5,11 @@ This project aims to analyze sentiment data from Reddit posts in cryptocurrency 
 Applications Overview
 1. Sentiment Analysis for Price Prediction
 Files:
+
 **reddit_network_sentiment_to_predict_cryptocurrency_price_movement_bitcoin.py
 reddit_network_sentiment_to_predict_cryptocurrency_price_movement_etheruem.py**
+
+
 These Python scripts collect Reddit data from the subreddits r/bitcoin and r/ethereum. They fetch all top posts over a given period and analyze their sentiment using Natural Language Processing (NLP) techniques.
 
 After processing the data, the final output is stored in a CSV file. The CSV contains key metrics such as:
